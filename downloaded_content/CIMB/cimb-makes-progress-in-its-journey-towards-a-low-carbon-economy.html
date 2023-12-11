@@ -206,8 +206,10 @@
 					<div class="md:w-1/2">
 
 						<div v-if="keyWord.length >= 3 && suggestions.length === 0" class=" mt-8 md:pr-8">
-							<div class="text-darkGrey body-text-1" v-show="isNoSuggestion && !isUserTyping">We couldn’t find any matches. Please try another search.</div>
-
+							<div class="text-darkGrey body-text-1" v-show="isNoSuggestion && !isUserTyping">
+								<span v-if="!noResultsCustomMsg">We couldn’t find any matches. Please try another search.</span>
+								<span v-else v-html="interpolateHtml(``)"></span>
+							</div>
 						</div>
 		
 						<section class="suggestion-results mt-8 md:pr-8" v-else-if="keyWord.length >= 3 && suggestions.length">
@@ -539,7 +541,7 @@
 			</div>
 
 			
-			<div v-if="isSearchResultsVisible" class="absolute search-suggestions-header" @click="backToPrevPage">
+			<div v-if="isSearchResultsVisible && !isNewTab" class="absolute search-suggestions-header" @click="backToPrevPage">
 				<div class="header-right-icons flex">
 					<svg class="icon-bytesize cursor-pointer" width="25" height="20">
 						<use xlink:href="#i-close" stroke-width="3.5px"></use>
@@ -2034,6 +2036,12 @@
 				</div>
 				<h5 class="text-charcoal">2023</h5>
 				<ul class="multiLevel-list mt-8">
+					
+				
+					
+				
+					
+				
 					
 				
 					
@@ -4016,7 +4024,7 @@ Learn more about our <a href="/en/privacy-policy.html"><u>Privacy Policy</u></a
 
 	
     
-<script src="/etc.clientlibs/cimb/clientlibs/clientlib-base.min.b0d9b95f7f1ad10d5050a4f87fe45e89.js"></script>
+<script src="/etc.clientlibs/cimb/clientlibs/clientlib-base.min.e10b2dfd9a32da033486094c7e547b03.js"></script>
 
 
 

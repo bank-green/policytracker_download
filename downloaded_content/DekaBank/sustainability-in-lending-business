@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link href="/site/privatkunden_site/resourceCached/22.3.0/content/content.css" rel="stylesheet" type="text/css" />
-<link href="/site/privatkunden_site/resourceCached/22.3.0/content/content-colors.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="/site/privatkunden_site/resourceCached/22.3.0/content/js/content.js"></script>
+        <link href="/site/privatkunden_site/resourceCached/23.4.0/content/content.css" rel="stylesheet" type="text/css" />
+<link href="/site/privatkunden_site/resourceCached/23.4.0/content/content-colors.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/site/privatkunden_site/resourceCached/23.4.0/content/js/content.js"></script>
 <meta charset="UTF-8">
 <meta name="format-detection" content="telephone=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -24,17 +24,17 @@
                                     <meta property="og:type" content="website">
 <meta property="og:locale" content="de">
 <meta property="og:url" content="https://www.deka.de/privatkunden">
-    <meta property="twitter:image" content="/site/privatkunden_site/resourceCached/22.3.0/assets/icons/logos/deka-1400x1400.jpg">
+    <meta property="twitter:image" content="/site/privatkunden_site/resourceCached/23.4.0/assets/icons/logos/deka-1400x1400.jpg">
 
 
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 <link rel="icon" href="/favicon.ico" type="image/x-icon" />
-<link rel="stylesheet" href="/site/privatkunden_site/resourceCached/22.3.0/assets/css/main.css">
-<link rel="preload" href="/site/privatkunden_site/resourceCached/22.3.0/assets/js/main.bundle.js" as="script">
+<link rel="stylesheet" href="/site/privatkunden_site/resourceCached/23.4.0/assets/css/main.css">
+<link rel="preload" href="/site/privatkunden_site/resourceCached/23.4.0/assets/js/main.bundle.js" as="script">
 <script type="application/javascript">
-	jsPublicPath = "/site/privatkunden_site/resourceCached/22.3.0/assets/js/";
-	assetsPath = "/site/privatkunden_site/resourceCached/22.3.0/assets/";
+	jsPublicPath = "/site/privatkunden_site/resourceCached/23.4.0/assets/js/";
+	assetsPath = "/site/privatkunden_site/resourceCached/23.4.0/assets/";
 	homeLink = "/privatkunden";
 </script>
 
@@ -213,13 +213,13 @@ egainChat.writeIframeIfRequired();
 
                 <div class="site-main__navigation-bar__logo-container-full">
                     <a class="site-main__navigation-bar__logo" href="/" aria-label="Startseite">
-                        <img src="/site/privatkunden_site/resourceCached/22.3.0/assets/icons/logos/deka-brand-logo.jpeg" alt="Logo Deka Investments" />
+                        <img src="/site/privatkunden_site/resourceCached/23.4.0/assets/icons/logos/deka-brand-logo.jpeg" alt="Logo Deka Investments" />
                     </a>
                 </div>
 
                 <div class="site-main__navigation-bar__logo-container-reduced">
                     <a class="site-main__navigation-bar__logo" href="/" aria-label="Startseite">
-                        <img src="/site/privatkunden_site/resourceCached/22.3.0/assets/icons/logos/deka-brand-logo.jpeg" alt="Logo Deka Investments" />
+                        <img src="/site/privatkunden_site/resourceCached/23.4.0/assets/icons/logos/deka-brand-logo.jpeg" alt="Logo Deka Investments" />
                     </a>
                 </div>
             </div>
@@ -262,19 +262,19 @@ egainChat.writeIframeIfRequired();
                             <li>
                                 <a href="https://www.google.com/intl/de/chrome/" target="_blank" title="Google Chrome" class="text-link text-link--arrow text-link--external">
                                     Google Chrome
-                                    <img src="/site/privatkunden_site/resourceCached/22.3.0/assets/icons/general/external-link.svg#Ebene_1" class="text-link__icon">
+                                    <img src="/site/privatkunden_site/resourceCached/23.4.0/assets/icons/general/external-link.svg#Ebene_1" class="text-link__icon">
                                 </a>
                             </li>
                              <li>
                                 <a href="https://www.mozilla.org/de/firefox/" target="_blank" title="Mozilla Firefox" class="text-link text-link--arrow text-link--external">
                                     Mozilla Firefox
-                                    <img src="/site/privatkunden_site/resourceCached/22.3.0/assets/icons/general/external-link.svg#Ebene_1" class="text-link__icon">
+                                    <img src="/site/privatkunden_site/resourceCached/23.4.0/assets/icons/general/external-link.svg#Ebene_1" class="text-link__icon">
                                 </a>
                             </li>
                             <li>
                                 <a href="https://www.microsoft.com/de-de/edge" target="_blank" title="Microsoft Edge" class="text-link text-link--arrow text-link--external">
                                     Microsoft Edge
-                                    <img src="/site/privatkunden_site/resourceCached/22.3.0/assets/icons/general/external-link.svg#Ebene_1" class="text-link__icon">
+                                    <img src="/site/privatkunden_site/resourceCached/23.4.0/assets/icons/general/external-link.svg#Ebene_1" class="text-link__icon">
                                 </a>
                             </li>
                         </ul>
@@ -1773,8 +1773,8 @@ linkList: [
                 :req-params="{}"
                 session-renew-url="/dn/app/vk/login/doRefresh/index.mhtml"
                 expiration-url="/dn/logout/timeoutRedirect.jsp"
-                :current-time="1700823003"
-                :expiration-time="1700823603"
+                :current-time="1702301047"
+                :expiration-time="1702301647"
                 :open-modal-after-sec-left="120"
     ></LoginCheck>
             
@@ -1790,12 +1790,12 @@ linkList: [
         
                                     
         <PopupOverlay
-            id="12842302"              :max-width="500"              head-line="Deka Career Day im Metaverse."                                         :copy-text="[
-                    'Der virtuelle Karrieretag für junge Berufseinsteigende.'
+            id="12842302"              :max-width="500"              head-line="Geldanlage 2024: Wissen, was Sache ist."                                         :copy-text="[
+                    '„Mikro trifft Makro TV“ im XL-Format. '
                  ]"
-                         img-src="/site/privatkunden_site/get/params_E92398215/16995370/Career-Day-Banner_1848x1028.jpg"                                      btn-text="Jetzt anmelden"                            :has-overlay="false"
+                         img-src="/site/privatkunden_site/get/params_E46674407/16995370/MTM-TV-1920%E2%80%8A%C3%97%E2%80%8A1080.jpg"                                      btn-text="Jetzt anschauen!"                            :has-overlay="false"
                          :cookie-duration="3"                            btn-target="_blank"
-                         btn-href="https://careerday.deka.de/"              cmp-vendor="c14587"         >
+                         btn-href="https://www.youtube.com/watch?v=9lg-FQHke1s"              cmp-vendor="c14587"         >
         </PopupOverlay>
     
                 
@@ -1817,10 +1817,23 @@ linkList: [
                             <div class="single-slide">
                                 <picture class="stage-teaser--picture">
                                                                         
-                                    <source media="(min-width: 768px) and (max-width: 1079px)" srcset="/site/privatkunden_site/get/params_E945955969_Nfirst/18773827/Tablet_2048x1400px_SINNcom.jpg">
-                                                                                                        <source media="(min-width: 1080px)" srcset="/site/privatkunden_site/get/params_E564844135_Nfirst/18773824/Desktop_2880x1400px_SINNcom.jpg">
+                                    <source media="(min-width: 768px) and (max-width: 1079px)" srcset="/site/privatkunden_site/get/params_E619016758_Nfirst/18773827/MTM-TV-Visual-2048%E2%80%8A%C3%97%E2%80%8A1400.jpg">
+                                                                                                        <source media="(min-width: 1080px)" srcset="/site/privatkunden_site/get/params_E-1901773034_Nfirst/18773824/MTM-TV-Visual-2880%E2%80%8A%C3%97%E2%80%8A1400.jpg">
                                                                                                                                     
-                <img id="abc" class="picture__image" src="/site/privatkunden_site/get/params_E1119908041_Nfirst/18773826/Smartphone_828x800px_SINNcom.jpg" alt="">
+                <img id="abc" class="picture__image" src="/site/privatkunden_site/get/params_E-800904694_Nfirst/18773826/MTM-TV-Visual-828%E2%80%8A%C3%97%E2%80%8A800.jpg" alt="">
+                                    </picture>
+                            </div>
+                        </div>
+
+                    
+                        <div class="carousel-cell">
+                            <div class="single-slide">
+                                <picture class="stage-teaser--picture">
+                                                                        
+                                    <source media="(min-width: 768px) and (max-width: 1079px)" srcset="/site/privatkunden_site/get/params_E945955969_Nfirst/19256977/Tablet_2048x1400px_SINNcom.jpg">
+                                                                                                        <source media="(min-width: 1080px)" srcset="/site/privatkunden_site/get/params_E564844135_Nfirst/19256974/Desktop_2880x1400px_SINNcom.jpg">
+                                                                                                                                    
+                <img id="abc" class="picture__image" src="/site/privatkunden_site/get/params_E1119908041_Nfirst/19256976/Smartphone_828x800px_SINNcom.jpg" alt="">
                                     </picture>
                             </div>
                         </div>
@@ -1879,6 +1892,17 @@ linkList: [
 
                                     </template>
                 <template v-slot:content-box>
+                                            <div class="carousel-cell">
+                            <div class="carousel-cell__wrapper">
+                                                                    <p class="copytext-1 light content-box__intro">&bdquo;Mikro trifft Makro TV&ldquo; im XL-Format.</p>
+                                
+                                <h1 class="headline-1 light"> Geldanlage 2024: Wissen, was Sache ist. </h1>
+
+                                                                                                            <a href="https://www.youtube.com/watch?v=9lg-FQHke1s" role="button" tabindex="0" title="Jetzt anschauen!" target="_blank"
+                                           class="btn btn-primary content-box__btn">Jetzt anschauen!</a>
+                                                                    
+                            </div>
+                        </div>
                                             <div class="carousel-cell">
                             <div class="carousel-cell__wrapper">
                                                                     <p class="copytext-1 light content-box__intro">Let&lsquo;s talk about Money &ndash; Staffel 2.</p>
@@ -2511,17 +2535,17 @@ linkList: [
 
                 
                     <div class="col-xs-12 col-md-4">
-                        <a class="bottom-section-link" href="/privatkunden/aktuelles/fondsmagazin/artikel/j2023/11-1/deka-kater-finanzurteil-boersen">
+                        <a class="bottom-section-link" href="/privatkunden/aktuelles/fondsmagazin/artikel/j2023/12-1/deka-kater-rekordhoch-kurse">
                             <div class="box-row">
                                 <div class="content-box">
                                                                             <div class="infobar-bottom">
                                             <span class="copytext-2 infobar-bottom-text">
-                                                18.11.2023 | Katers Welt | 1 Min.                                            </span>
+                                                09.12.2023 | Katers Welt | 1 Min.                                            </span>
                                         </div>
                                                                                                                 <h3 class="headline-3 light">
-                                            Finanzpolitik-Wirbel lässt Börse kalt                                        </h3>
+                                            Frohe Botschaft                                        </h3>
                                                                                                                 <p class="copytext-1 light">
-                                            <strong><font class="primary2">Katers Welt</font> </strong>- Die Erholung an den Aktienmärkten schritt auch in der zurückliegenden Börsenwoche voran.                                        </p>
+                                            <strong><font class="primary2">Katers Welt</font> </strong>- Frohe Botschaften von den Finanzmärkten Richtung Weihnachten: Die Aktienmärkte erkletterten neue Rekordmarken, etwa der DAX, aber auch in grö&szlig;erem Ma&szlig;stab der weltweite MSCI-Index.                                        </p>
                                                                     </div>
                             </div>
                         </a>
@@ -3216,7 +3240,7 @@ linkList: [
             document.querySelector('.ie-overlay').style.display = 'block';
         }
     </script>
-    <script type="text/javascript" src="/site/privatkunden_site/resourceCached/22.3.0/assets/js/vendor/highstock.js"></script>
-    <script type="text/javascript" src="/site/privatkunden_site/resourceCached/22.3.0/assets/js/main.bundle.js" defer></script>
+    <script type="text/javascript" src="/site/privatkunden_site/resourceCached/23.4.0/assets/js/vendor/highstock.js"></script>
+    <script type="text/javascript" src="/site/privatkunden_site/resourceCached/23.4.0/assets/js/main.bundle.js" defer></script>
         </body>
 </html>
