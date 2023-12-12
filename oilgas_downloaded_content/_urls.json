@@ -240,8 +240,8 @@
         "output": [
             {
                 "url": "https://www.credit-agricole.com/en/pdfPreview/173422",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://www.credit-agricole.com/en/pdfPreview/173422",
+                "downloaded": true
             },
             {
                 "url": "https://www.credit-agricole.com/en/pdfPreview/173423",
@@ -490,5 +490,452 @@
                 "downloaded": true
             }
         ]
+    },
+    "La Banque Postale": {
+        "tag": "la_banque_postale",
+        "output": [
+            {
+                "url": "https://www.labanquepostale.com/content/dam/lbp/documents/institutionnel/rse/politique-petrole-gaz-lbp-2021.pdf",
+                "actual_url": "https://www.labanquepostale.com/content/dam/lbp/documents/institutionnel/rse/politique-petrole-gaz-lbp-2021.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "LBBW": {
+        "tag": "lbbw",
+        "output": [
+            {
+                "url": "https://www.lbbw.de/konzern/nachhaltigkeit/2022/lbbw-sustainability-practice-2022_ae45jn91ci_m.pdf",
+                "actual_url": "https://www.lbbw.de/konzern/nachhaltigkeit/2022/lbbw-sustainability-practice-2022_ae45jn91ci_m.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "Lloyds Banking Group": {
+        "tag": "lloyds_banking_group_plc",
+        "output": [
+            {
+                "url": "https://www.lloydsbankinggroup.com/assets/pdfs/who-we-are/responsible-business/downloads/group-codes-and-policies/lbg-external-all-sector-statements-may-23.pdf",
+                "actual_url": "https://www.lloydsbankinggroup.com/assets/pdfs/who-we-are/responsible-business/downloads/group-codes-and-policies/lbg-external-all-sector-statements-may-23.pdf",
+                "downloaded": true
+            },
+            {
+                "url": "https://www.lloydsbankinggroup.com/assets/pdfs/who-we-are/financing-a-green-future/net-zero-activity-update.pdf",
+                "actual_url": "https://www.lloydsbankinggroup.com/assets/pdfs/who-we-are/financing-a-green-future/net-zero-activity-update.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "Macquarie": {
+        "tag": "macquarie_group",
+        "output": [
+            {
+                "url": "https://www.macquarie.com/assets/macq/impact/esg/policies/net-zero-climate-risk.pdf",
+                "actual_url": "https://www.macquarie.com/assets/macq/impact/esg/policies/net-zero-climate-risk.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "Mizuho": {
+        "tag": "mizuho",
+        "output": [
+            {
+                "url": "https://www.mizuhogroup.com/news/2022/12/20221229_2release_eng.html",
+                "actual_url": "https://www.mizuhogroup.com/news/2022/12/20221229_2release_eng.html",
+                "downloaded": true
+            }
+        ]
+    },
+    "Morgan Stanley": {
+        "tag": "morgan_stanley",
+        "output": [
+            {
+                "url": "https://www.morganstanley.com/about-us-governance/pdf/Environmental_and_Social_Policy_Statement_December_2020.pdf",
+                "actual_url": "https://www.morganstanley.com/about-us-governance/pdf/Environmental_and_Social_Policy_Statement_December_2020.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "MUFG": {
+        "tag": "bank_of_tokyo_mitsubishi_ufj",
+        "output": [
+            {
+                "url": "https://www.mufg.jp/dam/pressrelease/2022/pdf/news-20220401-001_en.pdf",
+                "actual_url": "https://www.mufg.jp/dam/pressrelease/2022/pdf/news-20220401-001_en.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "National Australia Bank (NAB)": {
+        "tag": "national_australia_bank_group",
+        "output": [
+            {
+                "url": "https://www.nab.com.au/content/dam/nab/documents/reports/corporate/2022-climate-report.pdf",
+                "actual_url": "https://www.nab.com.au/content/dam/nab/documents/reports/corporate/2022-climate-report.pdf",
+                "downloaded": true
+            },
+            {
+                "url": "https://www.nab.com.au/about-us/social-impact/shareholders/esg-risk-management",
+                "actual_url": "https://www.nab.com.au/about-us/social-impact/shareholders/esg-risk-management",
+                "downloaded": true
+            },
+            {
+                "url": "https://www.nab.com.au/content/dam/nab/documents/reports/corporate/2021-annual-review.pdf",
+                "actual_url": "https://www.nab.com.au/content/dam/nab/documents/reports/corporate/2021-annual-review.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "National Bank of Canada": {
+        "tag": "national_bank_of_canada",
+        "output": [
+            {
+                "url": "https://www.nbc.ca/about-us/news-media/press-release/2021/20210422-La-Banque-Nationale-du-Canada-publie-son-Rapport-ESG-et-devoile-des-mesures-climatiques.html",
+                "actual_url": "https://www.nbc.ca/about-us/news-media/press-release/2021/20210422-La-Banque-Nationale-du-Canada-publie-son-Rapport-ESG-et-devoile-des-mesures-climatiques.html",
+                "downloaded": true
+            },
+            {
+                "url": "https://www.nbc.ca/content/dam/bnc/a-propos-de-nous/esg/pdf/report-tcfd-2022.pdf",
+                "actual_url": "https://www.nbc.ca/content/dam/bnc/a-propos-de-nous/esg/pdf/report-tcfd-2022.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "NatWest": {
+        "tag": "natwest",
+        "output": [
+            {
+                "url": "https://www.natwestgroup.com/content/dam/natwestgroup_com/natwestgroup/pdf/NWG-20220208-oil-and-gas-updated-2023.pdf",
+                "actual_url": "https://www.natwestgroup.com/content/dam/natwestgroup_com/natwestgroup/pdf/NWG-20220208-oil-and-gas-updated-2023.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "Nomura": {
+        "tag": "nomura",
+        "output": []
+    },
+    "NongHyup": {
+        "tag": "nonghyup_bank",
+        "output": []
+    },
+    "Nordea": {
+        "tag": "nordea",
+        "output": [
+            {
+                "url": "https://www.nordea.com/en/doc/nordea-sector-guideline-for-fossil-fuel-based-industries.pdf",
+                "actual_url": "https://www.nordea.com/en/doc/nordea-sector-guideline-for-fossil-fuel-based-industries.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "Norinchukin": {
+        "tag": "the_norinchukin_bank",
+        "output": []
+    },
+    "Nykredit": {
+        "tag": "nykredit",
+        "output": [
+            {
+                "url": "https://www.nykredit.com/globalassets/nykredit.com/pdf/fossil-fuels-policy---18-09-2023.pdf",
+                "actual_url": "https://www.nykredit.com/globalassets/nykredit.com/pdf/fossil-fuels-policy---18-09-2023.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "OCBC": {
+        "tag": "ocbc",
+        "output": [
+            {
+                "url": "https://www.ocbc.com/iwov-resources/sg/ocbc/gbc/pdf/sustainability/summary%20of%20responsible%20financing%20sector-specific%20policies%20(jun%2023).pdf",
+                "actual_url": "https://www.ocbc.com/iwov-resources/sg/ocbc/gbc/pdf/sustainability/summary%20of%20responsible%20financing%20sector-specific%20policies%20(jun%2023).pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "Ping An": {
+        "tag": "ping_an_bank",
+        "output": []
+    },
+    "PNC": {
+        "tag": "pnc",
+        "output": [
+            {
+                "url": "https://www.pnc.com/content/dam/pnc-com/pdf/aboutpnc/CorporateResponsibilityReports/PNC_CDP_Response_2022.pdf",
+                "actual_url": "https://www.pnc.com/content/dam/pnc-com/pdf/aboutpnc/CorporateResponsibilityReports/PNC_CDP_Response_2022.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "Postal Savings Bank of China": {
+        "tag": "postal_savings_bank_of_china",
+        "output": []
+    },
+    "Qatar National Bank": {
+        "tag": "qatar_national_bank",
+        "output": [
+            {
+                "url": "https://www.qnb.com/sites/qnb/qnbqatar/document/en/enESRM",
+                "actual_url": null,
+                "downloaded": false
+            }
+        ]
+    },
+    "Rabobank": {
+        "tag": "rabobank",
+        "output": [
+            {
+                "url": "https://www.rabobank.com/en/images/sustainability-policy-framework.pdf",
+                "actual_url": null,
+                "downloaded": false
+            }
+        ]
+    },
+    "Raiffeisen Bank International": {
+        "tag": "raiffeisen_zentralbank",
+        "output": [
+            {
+                "url": "https://www.rbinternational.com/resources/RBI/raiffeisen-bank-international/who-we-are/compliance-information/Exclusion%20Policy%20on%20Oil.pdf",
+                "actual_url": "https://www.rbinternational.com/resources/RBI/raiffeisen-bank-international/who-we-are/compliance-information/Exclusion%20Policy%20on%20Oil.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "RBC": {
+        "tag": "rbc",
+        "output": [
+            {
+                "url": "https://www.rbc.com/community-social-impact/_assets-custom/pdf/2022-net-zero-report.PDF",
+                "actual_url": "https://www.rbc.com/community-social-impact/_assets-custom/pdf/2022-net-zero-report.PDF",
+                "downloaded": true
+            },
+            {
+                "url": "https://www.rbc.com/community-social-impact/environment/RBC-Policy-Guidelines-for-Sensitive-Sectors-and-Activities_EN.pdf",
+                "actual_url": "https://www.rbc.com/community-social-impact/environment/RBC-Policy-Guidelines-for-Sensitive-Sectors-and-Activities_EN.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "Resona": {
+        "tag": "resona",
+        "output": []
+    },
+    "Rothschild & Co": {
+        "tag": "rothschild_co",
+        "output": []
+    },
+    "Santander": {
+        "tag": "santander",
+        "output": [
+            {
+                "url": "https://www.santander.com/content/dam/santander-com/en/documentos/informe-anual-de-sostenibilidad/2021/ias-2021-climate-finance-2021-en.pdf",
+                "actual_url": "https://www.santander.com/content/dam/santander-com/en/documentos/informe-anual-de-sostenibilidad/2021/ias-2021-climate-finance-2021-en.pdf",
+                "downloaded": true
+            },
+            {
+                "url": "https://www.santander.com/content/dam/santander-com/en/contenido-paginas/nuestro-compromiso/pol%C3%ADticas/do-environmental-social-and-climate-change-risk-policy-en.pdf",
+                "actual_url": "https://www.santander.com/content/dam/santander-com/en/contenido-paginas/nuestro-compromiso/pol%C3%ADticas/do-environmental-social-and-climate-change-risk-policy-en.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "Sberbank": {
+        "tag": "sberbank",
+        "output": []
+    },
+    "Scotiabank": {
+        "tag": "scotiabank",
+        "output": [
+            {
+                "url": "https://www.scotiabank.com/content/dam/scotiabank/corporate/Documents/Scotiabank_Net_Zero_Report_2022-EN.pdf",
+                "actual_url": "https://www.scotiabank.com/content/dam/scotiabank/corporate/Documents/Scotiabank_Net_Zero_Report_2022-EN.pdf",
+                "downloaded": true
+            },
+            {
+                "url": "https://www.scotiabank.com/content/dam/scotiabank/corporate/Documents/Scotiabanks_Statement_on_Financing_in_the_Arctic.pdf",
+                "actual_url": "https://www.scotiabank.com/content/dam/scotiabank/corporate/Documents/Scotiabanks_Statement_on_Financing_in_the_Arctic.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "SEB": {
+        "tag": "seb",
+        "output": [
+            {
+                "url": "https://webapp.sebgroup.com/mb/mblib.nsf/alldocsbyunid/80AF6A2E5F88CDC2C12586B1002E33C2/$FILE/sector_policy_fossil_fuel.pdf",
+                "actual_url": "https://webapp.sebgroup.com/mb/mblib.nsf/alldocsbyunid/80AF6A2E5F88CDC2C12586B1002E33C2/$FILE/sector_policy_fossil_fuel.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "Shanghai Pudong Development Bank": {
+        "tag": "shanghai_pudong_development_bank",
+        "output": []
+    },
+    "Shinhan": {
+        "tag": "shinhan_financial_group",
+        "output": []
+    },
+    "SMFG - SMBC": {
+        "tag": "smfg",
+        "output": [
+            {
+                "url": "https://www2.smbc.co.jp/news_e/pdf/e20220513_04.pdf",
+                "actual_url": "https://www2.smbc.co.jp/news_e/pdf/e20220513_04.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "Societe Generale": {
+        "tag": "societe_generale",
+        "output": [
+            {
+                "url": "https://www.societegenerale.com/sites/default/files/documents/CSR/Oil-Gas-sector-policy.pdf",
+                "actual_url": "https://www.societegenerale.com/sites/default/files/documents/CSR/Oil-Gas-sector-policy.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "SpareBank 1 SR-Bank": {
+        "tag": "sparebank_1_srbank",
+        "output": [
+            {
+                "url": "https://www.sparebank1.no/content/dam/SB1/bank/sr-bank/english/about-us/Social-responsibilty/SpareBank_1_SR-Bank_Sustainability_Report_2021.pdf",
+                "actual_url": "https://www.sparebank1.no/content/dam/SB1/bank/sr-bank/english/about-us/Social-responsibilty/SpareBank_1_SR-Bank_Sustainability_Report_2021.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "Standard Chartered": {
+        "tag": "standard_chartered",
+        "output": [
+            {
+                "url": "https://av.sc.com/corp-en/content/docs/extractive-industries-position-statement.pdf",
+                "actual_url": "https://av.sc.com/corp-en/content/docs/extractive-industries-position-statement.pdf",
+                "downloaded": true
+            },
+            {
+                "url": "https://av.sc.com/corp-en/content/docs/SC-net-zero-whitepaper.pdf",
+                "actual_url": "https://av.sc.com/corp-en/content/docs/SC-net-zero-whitepaper.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "State Bank of India": {
+        "tag": "state_bank_of_india",
+        "output": []
+    },
+    "State Street": {
+        "tag": "state_street_corp",
+        "output": []
+    },
+    "Sumitomo Mitsui Trust Bank (SMTB)": {
+        "tag": "smtb",
+        "output": []
+    },
+    "Swedbank": {
+        "tag": "swedbank",
+        "output": [
+            {
+                "url": "https://online.swedbank.se/ConditionsEarchive/download?bankid=1111&id=WEBDOC-PPE1341798",
+                "actual_url": "https://online.swedbank.se/ConditionsEarchive/download?bankid=1111&id=WEBDOC-PPE1341798",
+                "downloaded": true
+            },
+            {
+                "url": "https://swedbank.com/newsroom/press-releases.details.5DB9C18C247573DE.html",
+                "actual_url": "https://swedbank.com/newsroom/press-releases.details.5DB9C18C247573DE.html",
+                "downloaded": true
+            }
+        ]
+    },
+    "Sydbank": {
+        "tag": "sydbank",
+        "output": []
+    },
+    "TD": {
+        "tag": "td_bank",
+        "output": [
+            {
+                "url": "https://www.td.com/document/PDF/ESG/2020-TD-Environmental-and-Social-Credit-Risk-Process.pdf",
+                "actual_url": "https://www.td.com/document/PDF/ESG/2020-TD-Environmental-and-Social-Credit-Risk-Process.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "Truist Financial": {
+        "tag": "truist",
+        "output": []
+    },
+    "UBS": {
+        "tag": "ubs",
+        "output": [
+            {
+                "url": "https://www.ubs.com/global/en/sustainability-impact/_jcr_content/mainpar/toplevelgrid_722018021/col1/innergrid_386296178/xcol1/actionbutton_copy_15.1432822186.file/PS9jb250ZW50L2RhbS9hc3NldHMvY2Mvc3VzdGFpbmFiaWxpdHktYW5kLWltcGFjdC9kb2MvMjAyMi91YnMtc3VzdGFpbmFiaWxpdHktcmVwb3J0LTIwMjIucGRm/ubs-sustainability-report-2022.pdf",
+                "actual_url": "https://www.ubs.com/global/en/sustainability-impact/_jcr_content/mainpar/toplevelgrid_722018021/col1/innergrid_386296178/xcol1/actionbutton_copy_15.1432822186.file/PS9jb250ZW50L2RhbS9hc3NldHMvY2Mvc3VzdGFpbmFiaWxpdHktYW5kLWltcGFjdC9kb2MvMjAyMi91YnMtc3VzdGFpbmFiaWxpdHktcmVwb3J0LTIwMjIucGRm/ubs-sustainability-report-2022.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "UniCredit": {
+        "tag": "unicredit",
+        "output": [
+            {
+                "url": "https://www.unicreditgroup.eu/en/press-media/press-releases/2023/unicredit-fissa-gli-obiettivi-net-zero-per-i-settori-ad-alte-emi.html",
+                "actual_url": "https://www.unicreditgroup.eu/en/press-media/press-releases/2023/unicredit-fissa-gli-obiettivi-net-zero-per-i-settori-ad-alte-emi.html",
+                "downloaded": true
+            },
+            {
+                "url": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/en/sustainability/our-vision-of-a-sustainable-bank/policies-and-guidelines/Oil-and-gas-policy(1).pdf",
+                "actual_url": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/en/sustainability/our-vision-of-a-sustainable-bank/policies-and-guidelines/Oil-and-gas-policy(1).pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "United Overseas Bank (UOB)": {
+        "tag": "uob",
+        "output": [
+            {
+                "url": "https://www.uobgroup.com/sustainability/pdf/UOB-report-forging-our-net-zero-future.pdf",
+                "actual_url": null,
+                "downloaded": false
+            }
+        ]
+    },
+    "US Bancorp": {
+        "tag": "us_bancorp",
+        "output": []
+    },
+    "VTB Bank": {
+        "tag": "vtb_bank",
+        "output": []
+    },
+    "Wells Fargo": {
+        "tag": "wells_fargo",
+        "output": [
+            {
+                "url": "https://www08.wellsfargomedia.com/assets/pdf/about/corporate-responsibility/environmental-social-governance-report.pdf",
+                "actual_url": "https://www08.wellsfargomedia.com/assets/pdf/about/corporate-responsibility/environmental-social-governance-report.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "Westpac": {
+        "tag": "westpac",
+        "output": [
+            {
+                "url": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Westpac_Net_Zero_2030_Targets_27_July_22.pdf",
+                "actual_url": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Westpac_Net_Zero_2030_Targets_27_July_22.pdf",
+                "downloaded": true
+            },
+            {
+                "url": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/sustainability/Climate_Change_Position_Statement_and_Action_Plan.pdf",
+                "actual_url": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/sustainability/Climate_Change_Position_Statement_and_Action_Plan.pdf",
+                "downloaded": true
+            }
+        ]
+    },
+    "Woori": {
+        "tag": "woori_bank",
+        "output": []
     }
 }

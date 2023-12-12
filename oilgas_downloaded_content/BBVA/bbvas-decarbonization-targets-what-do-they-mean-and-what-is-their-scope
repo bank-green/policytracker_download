@@ -1,0 +1,1748 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+        <title>BBVA&#039;s decarbonization targets: What do they mean, what is their scope?</title>
+    <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<meta name="author" content="BBVA">
+<meta name="owner" content="BBVA">
+
+
+
+
+
+    <script type="application/ld+json">
+        {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/"
+    },
+    "headline": "BBVA's decarbonization targets: What do they mean and what is their scope?",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://www.bbva.com/wp-content/uploads/2022/10/descarbonizacio\u0301n-1024x629.jpg",
+        "width": "1024",
+        "height": "629"
+    },
+    "author": {
+        "@type": "Person",
+        "name": [
+            "Communications "
+        ]
+    },
+    "datePublished": "2021-11-04T09-07-28.000Z",
+    "dateModified": "2022-10-11T17-55-41.000Z",
+    "publisher": {
+        "@type": "Organization",
+        "name": "BBVA",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/images/logos/bbva-logo-900x269.png",
+            "width": "900",
+            "height": "269"
+        }
+    },
+    "sameAs": [
+        "https://www.facebook.com/BBVAGroup/",
+        "https://twitter.com/bbva",
+        "https://www.linkedin.com/company/bbva",
+        "https://www.youtube.com/channel/UCx7HhFsmIlxx9fXnMpnERbQ",
+        "https://es.wikipedia.org/wiki/BBVA",
+        "https://instagram.com/bbva/",
+        "https://www.tiktok.com/@bbva"
+    ]
+}
+    </script>
+
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/images/comun/favicon.ico">
+
+
+
+
+    <script type="application/ld+json">
+        [
+            
+                {
+                    "@context": "https://schema.org",
+                    "@type": "BreadcrumbList",
+                    "itemListElement": [
+
+                         {
+                                "@type": "ListItem",
+                                "position": 0,
+                                 "name": "Sustainability",
+                                    "item": "https://www.bbva.com/en/sustainability/"
+                            },
+                        
+                     {
+                                "@type": "ListItem",
+                                "position": 1,
+                                 "name": "Commitment",
+                                    "item": "https://www.bbva.com/en/sustainability/commitment/"
+                            },
+                        
+                     {
+                                "@type": "ListItem",
+                                "position": 2,
+                                 "name": "BBVA Sustainability Projects"
+                    }]
+            
+                    
+                },
+        
+                
+                {
+                    "@context": "https://schema.org",
+                    "@type": "BreadcrumbList",
+                    "itemListElement": [
+
+                         {
+                                "@type": "ListItem",
+                                "position": 0,
+                                 "name": "Sustainability",
+                                    "item": "https://www.bbva.com/en/sustainability/"
+                            },
+                        
+                     {
+                                "@type": "ListItem",
+                                "position": 1,
+                                 "name": "Commitment"
+                    }]
+            
+                    
+                },
+        
+                
+                {
+                    "@context": "https://schema.org",
+                    "@type": "BreadcrumbList",
+                    "itemListElement": [
+
+                         {
+                                "@type": "ListItem",
+                                "position": 0,
+                                 "name": "Sustainability"
+                    }]
+            
+                    
+                    }
+        
+                        ]
+    </script>
+
+
+        <link id="styleCss" rel="stylesheet" href="https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/css/coronita_news.css?ver=11.3.0">
+
+    <link rel="stylesheet" type="text/css" media="print" href="https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/css/print/print.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/css/print/print-hubs.css" />
+<!-- CONTENT_START_ADOBE_DATALAYER -->
+<script type="text/javascript">
+    /*** Obtener nombre de todos los autores ***/
+    var namesAuthorAdl = [];
+    namesAuthorAdl[0] = 'Communications';
+    /*** Obtener id de todas las categorias ***/
+    var postCategoryCodeAuxAdl = [];
+    postCategoryCodeAuxAdl[0] = '57642-BBVA Sustainability Projects';postCategoryCodeAuxAdl[1] = '57634-Commitment';postCategoryCodeAuxAdl[2] = '1746-Sustainability';
+    var adobeDataLayer = {
+
+        entorno: "prod",
+        idiomaDL: "EN",
+        postType: "sustainability",
+        templatePage: "",
+        tipoPost: "",
+        levelOne: "",
+        adobeSlug: "",
+        levelThree: "",
+        postIdAdobe: "872235",
+        postTitleidAdobe: "",
+        postTitleAdobe: "BBVAs decarbonization targets: What do they mean and what is their scope?",
+        postTypeAdobe: "simple",
+        formato: "noticia simple sustainability",
+        postPublishDateAdobe: "04-11-2021",
+        postModifiedDateAdobe: "11-10-2022",
+        postCategoryCodeAdobe: postCategoryCodeAuxAdl.join(","),
+        postSignatureAdobe: "",
+        postAuthorAdobe: namesAuthorAdl.join(","),
+        postCountryAuthorAdobe: "",
+        relatedidpostAdobe: "",
+        relatedpostTitleidAdobe: "",
+        relatedpostpositionAdobe: "",
+        scope: "global",
+        idDharmaAdobe: "",
+        errorPage: "",
+        postCountry: "HOLDING",
+        proceso: "Citizenship"
+    };
+
+
+    if (adobeDataLayer.postType == 'page' && adobeDataLayer.templatePage == 'home') {
+
+        adobeDataLayer.tipoPost = 'home';
+        adobeDataLayer.levelOne = 'home';
+
+        /* Obtener pais de la home*/
+        var auxUrlPais = window.location.href.replace(/https?:\/\/[^\/]+/i, "");
+        var urlrequest = auxUrlPais.split('?')[0];
+        var auxUrlPaisArray = urlrequest.split('/');
+
+        switch (auxUrlPaisArray.length) {
+
+            case 4:
+                adobeDataLayer.adobeSlug = auxUrlPaisArray[1];
+                adobeDataLayer.levelThree = auxUrlPaisArray[2];
+                break;
+            case 3:
+                if (auxUrlPaisArray[2] == "") {
+
+                    adobeDataLayer.adobeSlug = auxUrlPaisArray[1];
+                } else {
+
+                    adobeDataLayer.adobeSlug = auxUrlPaisArray[1];
+                    adobeDataLayer.levelThree = auxUrlPaisArray[2];
+                }
+                break;
+            case 2:
+                adobeDataLayer.adobeSlug = auxUrlPaisArray[1];
+                break;
+            default:
+                adobeDataLayer.adobeSlug = "";
+                adobeDataLayer.levelThree = "";
+        }
+    } else if (adobeDataLayer.templatePage == 'subhome') {
+
+        adobeDataLayer.tipoPost = 'subhome';
+
+        switch (adobeDataLayer.levelOne) {
+
+            case 'autores':
+                // Author ID and Title
+                                adobeDataLayer.postIdAdobe = "649224";
+                adobeDataLayer.postTitleidAdobe = "";
+                adobeDataLayer.postTitleAdobe = "";
+                adobeDataLayer.adobeSlug = "";
+                break;
+            case 'autores invitados':
+                                adobeDataLayer.adobeSlug = "Communications";
+                break;
+            case 'categorias':
+                                // Category ID and Title
+                adobeDataLayer.postType = "";
+                adobeDataLayer.postTypeAdobe = "";
+                adobeDataLayer.postCategoryCodeAdobe = "";
+                adobeDataLayer.postAuthorAdobe = "";
+                adobeDataLayer.postIdAdobe = "";
+                adobeDataLayer.postCountry = '';
+                adobeDataLayer.postTitleidAdobe = "";
+                adobeDataLayer.postTitleAdobe = "";
+                adobeDataLayer.adobeSlug = "";
+                adobeDataLayer.formato = "";
+                break;
+            case 'destacados': //especial
+                adobeDataLayer.adobeSlug = "bbvas decarbonization targets what do they mean and what is their scope";
+                break;
+            case 'secciones': //portadillas de seccion
+                adobeDataLayer.adobeSlug = "bbvas decarbonization targets what do they mean and what is their scope";
+                break;
+            case 'calculadoras': //calculadoras
+                adobeDataLayer.adobeSlug = "bbvas decarbonization targets what do they mean and what is their scope";
+                break;
+            default:
+                adobeDataLayer.adobeSlug = "";
+        }
+    } else if (adobeDataLayer.templatePage == 'subhome1') {
+        adobeDataLayer.tipoPost = 'informacion';
+        adobeDataLayer.adobeSlug = "";
+    } else if (adobeDataLayer.templatePage == '404') {
+        adobeDataLayer.tipoPost = 'page';
+        adobeDataLayer.postTitleAdobe = '';
+        adobeDataLayer.postAuthorAdobe = '';
+        adobeDataLayer.postCategoryCodeAdobe = '';
+        adobeDataLayer.postIdAdobe = '';
+        adobeDataLayer.postCountry = '';
+        adobeDataLayer.postPublishDateAdobe = '';
+        adobeDataLayer.postModifiedDateAdobe = '';
+        adobeDataLayer.postTypeAdobe = '';
+        adobeDataLayer.idiomaDL = (lang == 'ES') ? 'ES' : 'EN';
+        adobeDataLayer.levelOne = 'pagina no encontrada';
+        adobeDataLayer.adobeSlug = "404";
+        adobeDataLayer.errorPage = "404";
+        adobeDataLayer.scope = 'global';
+    } else if (adobeDataLayer.templatePage == 'static-page') {
+        adobeDataLayer.tipoPost = 'informacion';
+        adobeDataLayer.levelOne = 'estaticos';
+        adobeDataLayer.postCountry = "";
+        adobeDataLayer.scope = "";
+    } else if (adobeDataLayer.postType == 'page' && adobeDataLayer.templatePage == '') {
+        adobeDataLayer.tipoPost = 'informacion';
+        adobeDataLayer.adobeSlug = "";
+    } else {
+        adobeDataLayer.tipoPost = 'noticia';
+        adobeDataLayer.levelOne = 'noticia';
+        adobeDataLayer.adobeSlug = "";
+    }
+</script>
+<!-- CONTENT_END_ADOBE_DATALAYER -->    <script src="https://www.google.com/recaptcha/api.js?render=6LfJNKgaAAAAAHTc_5-7JG0fWwYR5kA9tdT6RatM" async></script>
+    <script type="text/javascript">
+        window.rsConf = {
+            general: {
+                usePost: true
+            },
+            settings: {
+                hlicon: 'iconoff'
+            }
+        };
+    </script>
+        <link rel="alternate" hreflang="en" href="https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/" />
+<link rel="alternate" hreflang="es" href="https://www.bbva.com/es/sostenibilidad/objetivos-de-descarbonizacion-de-bbva-que-significan-y-cual-es-su-alcance/" />
+<link rel="alternate" hreflang="x-default" href="https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/" />
+
+	<meta name="description" content="BBVA has set intermediate targets to decarbonize its portfolio in four CO2-intensive industries. Following its commitment in March to stop financing coal-related companies by 2030 in developed countries and by 2040 for the rest." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1, noarchive" />
+	<link rel="canonical" href="https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="BBVA&#039;s decarbonization targets: What do they mean and what is their scope?" />
+	<meta property="og:description" content="BBVA has set intermediate targets to decarbonize its portfolio in four CO2-intensive industries. Following its commitment in March to stop financing coal-related companies by 2030 in developed countries and by 2040 for the rest." />
+	<meta property="og:url" content="https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/" />
+	<meta property="og:site_name" content="NEWS BBVA" />
+	<meta property="article:publisher" content="https://www.facebook.com/GrupoBBVA" />
+	<meta property="article:modified_time" content="2022-10-11T14:55:41+00:00" />
+	<meta property="og:image" content="https://www.bbva.com/wp-content/uploads/2022/10/descarbonización-1024x629.jpg" />
+	<meta property="og:image:width" content="1024" />
+	<meta property="og:image:height" content="629" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="BBVA&#039;s decarbonization targets: What do they mean and what is their scope?" />
+	<meta name="twitter:description" content="BBVA has set intermediate targets to decarbonize its portfolio in four CO2-intensive industries. Following its commitment in March to stop financing coal-related companies by 2030 in developed countries and by 2040 for the rest." />
+	<meta name="twitter:site" content="@bbva" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.bbva.com/en/#website","url":"https://www.bbva.com/en/","name":"NEWS BBVA","description":"NEWS BBVA","potentialAction":[{"@type":"SearchAction","target":"https://search.bbva.com/en/bbva?searchbbvaen={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/#primaryimage","inLanguage":"en-US","url":"https://www.bbva.com/wp-content/uploads/2022/10/descarbonizacio\u0301n.jpg","width":1920,"height":1180},{"@type":"WebPage","@id":"https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/#webpage","url":"https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/","name":"BBVA's decarbonization targets: What do they mean, what is their scope?","isPartOf":{"@id":"https://www.bbva.com/en/#website"},"primaryImageOfPage":{"@id":"https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/#primaryimage"},"datePublished":"2021-11-04T07:07:28+00:00","dateModified":"2022-10-11T14:55:41+00:00","description":"BBVA has set intermediate targets to decarbonize its portfolio in four CO2-intensive industries. Following its commitment in March to stop financing coal-related companies by 2030 in developed countries and by 2040 for the rest.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/"]}]}]}</script>
+
+
+<link rel='dns-prefetch' href='//www.bbva.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<style id='has-inline-styles-inline-css' type='text/css'>
+.has-social-placeholder {display: none;height: 0;width: 0;overflow: hidden;}.has-inline-text { background-color: #ffefb1; color: #000000; }.has-inline-text:hover { background-color: #fcd63c; color: #000000; }
+</style>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/jquery.min.js?ver=3.3.1' id='jquery-js'></script>
+<script type='text/javascript' id='options_values-js-extra'>
+/* <![CDATA[ */
+var cb_options = {"language":"en","site_url":"https:\/\/www.bbva.com","env":"prod","ajuste_id_en":"281312","storage_path":"https:\/\/www.bbva.com\/wp-content\/storage\/en\/","storage_info":"https:\/\/www.bbva.com\/wp-content\/storage\/en\/news\/{id}.json","storage_related_box":"https:\/\/www.bbva.com\/wp-content\/storage\/en\/related-box\/{id}.html","menu_html":"https:\/\/www.bbva.com\/wp-content\/storage\/en\/menu\/","timestamp_json":"https:\/\/www.bbva.com\/wp-content\/storage\/en\/menu\/timestamp.json","code_webs_publicas":"j6yx1hfp","api_dharma_read_seconds":null,"api_dharma_url":null,"api_dharma_tracking_base":null,"config_legal":"https:\/\/www.bbva.com\/wp-content\/storage\/en\/config\/legal_version.json","close_wait_seconds":"5","messages":{"newsletter_already_registered":"You are already subscribed to our newsletter"},"pixel_campaign":{"type":"","value":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/values.min.js?ver=11.3.0' id='options_values-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/modules/000-utils.min.js?ver=11.3.0' id='utils_js-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/modules/script-onetrust.min.js?ver=11.3.0' id='script-onetrust-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/os-block-control-cookie.min.js?ver=11.3.0' id='os-block-control-cookie-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/modules/redirections-home-pais.min.js?ver=11.3.0' id='redirections-home-pais-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/modules/tickers-ajax.min.js?ver=11.3.0' id='tickers-ajax-js-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/modules/legal-version.min.js?ver=11.3.0' id='legal-version-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/bbva_com.min.js?ver=11.3.0' id='bbva_com-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/modules/menu_version.min.js?ver=11.3.0' id='menu_version-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/funciones-dataLayer.min.js?ver=11.3.0' id='funciones-dataLayer-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/dataLayer-podcast.min.js?ver=11.3.0' id='dataLayer-podcast-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/datalayer-transaccionales.min.js?ver=11.3.0' id='datalayer-transaccionales-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/funciones-intersection-observer.min.js?ver=11.3.0' id='funciones-intersection-observer-js'></script>
+<link rel="https://api.w.org/" href="https://www.bbva.com/en/wp-json/" />
+        <script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = '4b9851cacd';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://www.bbva.com/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+		<style type="text/css">.has-text,div.has-tooltip,div.has-tooltip:hover:after {display: none !important;} </style>
+                    <script>
+                        jQuery(document).ready(function($) {
+                            var adminBar = $("#wpadminbar");
+                            var t = null;
+
+                            adminBar.mouseenter(function() {
+                                if(t) {
+                                    clearTimeout(t);
+                                    t = null;
+                                }
+
+                                adminBar.addClass("visible");
+                            });
+
+                            adminBar.mouseleave(function() {
+                                if(t) {
+                                    clearTimeout(t);
+                                    t = null;
+                                }
+
+                                t = setTimeout(function() {
+                                    adminBar.removeClass("visible");
+                                }, 1000);
+
+                            });
+                        });
+                    </script>
+                    <style>
+                    #wpadminbar {
+                        overflow: hidden !important;
+                        width: 37px !important;
+                        min-width: initial !important;
+                    }
+                    #wpadminbar.visible {
+                        overflow: visible !important;
+                        width: 100% !important;
+                        min-width: inherit !important;
+                    }
+                    @media screen and (max-width: 782px) {
+                        #wpadminbar {
+                            width: 55px !important;
+                        }
+                    }
+                    #wp-admin-bar-wp-logo .ab-sub-wrapper {
+                        display: none !important;
+                    }
+                   </style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>    </head>
+
+<body class="sustainability-template-default single single-sustainability postid-872235 scroll wpb-js-composer js-comp-ver-6.5.0 vc_responsive has-body">
+            <div id="webpage">
+
+        <!-- PANEL buscador -->
+        <div id="panelBuscadorContent" class="panelBuscador-main rs_skip">
+            <div id="panelBuscadorPrincipal" class="container">
+                <div class="panelBuscador_header">
+                    <div class="row panelBuscador_cerrar">
+                        <p id="ocultarPanelBuscador" value="ocultar" class="closePanelBuscador punteroMano"><i class="icon-nav_close"></i><span class="textoIconoOcultar">Close panel</span></p>
+                    </div>
+                    <div class="panelBuscador_logo row">
+                        <p class="panelBuscador_logo_titular"><i class="icon-logo_BBVA"></i><span class="textoIconoOcultar">BBVA.com</span></p>
+                    </div>
+                </div>
+                <form id="search-formulario" role="search" method="get" action="" target="_blank" class="navbar-form" autocomplete="off">
+                    <div class="panelBuscador_form ui-widget col-md-6 col-md-offset-3 col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
+                        <input name="tags" id="tags" class="form_buscador_input" name="">
+                        <label for="tags" class="form_buscador_label">What are you looking for?</label>
+                        <p class="form_buscador_enter"><i class="icon-nav_arrowRight"></i><span class="textoIconoOcultar">Press Enter</span></p>
+                        <div class="form_buscador_rtdos">
+                            <p class="rtdosBusq_titulo">Predictive Search</p>
+                            <ul class="rtdosBusq_listaMostrados">
+                            </ul>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <!-- PANEL navegacion -->
+        <div id="panelNavegacionContent" class="panelNavegacion-main alturaPanelCentral rs_skip" data-menu-version="20230620093408">
+            
+<div class="panelNavegacion-wrapper ">
+    <div id="panelNavCerrar">
+        <div class="container">
+            <div class="panelNavegacionCerrar">
+                <p id="ocultarPanelNavegacion1" value="ocultar" class="close_panelNavegacion punteroMano"><i class="icon-nav_close"></i><span class="textoIconoOcultar">Close panel</span></p>
+                <p id="ocultarPanelNavegacion2" value="ocultar" class="close_panelNavegacion punteroMano"><i class="icon-nav_close"></i><span class="textoIconoOcultar">Close panel</span></p>
+                <p id="ocultarPanelNavegacionPpal" value="ocultar" class="close_panelNavegacionMovil punteroMano"><i class="icon-nav_close"></i><span class="textoIconoOcultar">Close panel</span></p>
+            </div>
+        </div>
+    </div>
+    <div id="panelNavPpal">
+        <div class="container">
+            <div class="col-md-9 col-xs-8">
+                <div class="col-md-10 col-md-offset-1 col-xs-12">
+                    <div class="panelNav_Logo row ">
+                        <p class="panelNavLogo_titular"><i class="icon-logo_BBVA"></i><span class="textoIconoOcultar">BBVA.com</span></p>
+                    </div>
+                    <div id="contenedorListadoNavegacion" class="contenedorListadoNavegacionSup">
+                        <div id="listadoNavegacionPrincipal" class="center-block listadoNavegacionPrincipal ocultarListadoNavegacion col-md-12 col-md-offset-1 col-xs-12">
+                            <ul id="menu-first-hamburger-menu" class="lista_menuNavPpal"><li id="menu-item-483647" class="menu-item menu-item-type-post_type menu-item-object-section menu-item-483647"><a href="https://www.bbva.com/en/analysis-and-opinion/">Analysis and Opinion</a></li>
+<li id="menu-item-483645" class="menu-item menu-item-type-post_type menu-item-object-section menu-item-483645"><a href="https://www.bbva.com/en/fintech/">Fintech</a></li>
+<li id="menu-item-483646" class="menu-item menu-item-type-post_type menu-item-object-section menu-item-483646"><a href="https://www.bbva.com/en/finance/">Finance</a></li>
+<li id="menu-item-483643" class="menu-item menu-item-type-post_type menu-item-object-section menu-item-483643"><a href="https://www.bbva.com/en/responsible-banking/">Sustainability and Responsible Banking</a></li>
+<li id="menu-item-483648" class="menu-item menu-item-type-post_type menu-item-object-section menu-item-483648"><a href="https://www.bbva.com/en/economy/">Economy</a></li>
+<li id="menu-item-483642" class="menu-item menu-item-type-post_type menu-item-object-section menu-item-483642"><a href="https://www.bbva.com/en/life-and-culture/">Life and Culture</a></li>
+<li id="menu-item-483644" class="menu-item menu-item-type-post_type menu-item-object-section menu-item-483644"><a href="https://www.bbva.com/en/innovation/">Innovation</a></li>
+<li id="menu-item-647657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-647657"><a href="https://www.bbva.com/en/specials/our-brand-logo/">Our Brand</a></li>
+<li id="menu-item-670059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-670059"><a href="https://www.bbva.com/en/specials/the-cenyt-case/">Cenyt Case</a></li>
+<li id="menu-item-739398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-739398"><a href="https://www.bbva.com/en/specials/coronavirus/">Coronavirus</a></li>
+<li id="menu-item-868714" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868714"><a href="https://www.bbva.com/en/specials/seeds-for-the-future/">Seeds for the future</a></li>
+</ul>                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="deshabilitar_panelNavPpal"></div>
+    <div id="panelNavDesplegable" class="anchoPanelesLaterales panelNavDespegableBox">
+        <div id="panelNav_n1" class="panelNavDespegable_n1">
+            <div class="listadoNavegacionLateral1">
+                <!-- Pintamos menu lateral (segundo nivel)-->
+                <ul id="menu-second-hamburger-menu" class="lista_menuNavLateral"><li id="menu-item-547778" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-547778"><a target="_blank" href="https://www.bbva.com/en/specials/results-bbva-group/">BBVA Earnings<i class="icon-nav_extlink" aria-hidden="true"></i></a></li>
+<li id="menu-item-488128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-488128"><a href="#panelNave_n2_488128" class="open-sub-panel">Corporate information<i class="icon-nav_forward" aria-hidden="true"></i></a></li>
+<li id="menu-item-488314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-488314"><a href="https://www.bbva.com/en/contact/">Contact</a></li>
+<li id="menu-item-488206" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-488206"><a href="#panelNave_n2_488206" class="open-sub-panel">BBVA financial information<i class="icon-nav_forward" aria-hidden="true"></i></a></li>
+<li id="menu-item-488241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488241"><a target="_blank" href="https://shareholdersandinvestors.bbva.com/financials/financial-calendar/">Financial calendar<i class="icon-nav_extlink" aria-hidden="true"></i></a></li>
+<li id="menu-item-841340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-841340"><a target="_blank" href="https://www.bbva.com/en/latest-news/">Latest news<i class="icon-nav_extlink" aria-hidden="true"></i></a></li>
+<li id="menu-item-611368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-611368"><a target="_blank" href="https://www.bbva.com/en/specials/bbva-podcast/">BBVA Podcast<i class="icon-nav_extlink" aria-hidden="true"></i></a></li>
+<li id="menu-item-488269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-488269"><a href="#panelNave_n2_488269" class="open-sub-panel">Press Room<i class="icon-nav_forward" aria-hidden="true"></i></a></li>
+<li id="menu-item-731997" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-731997"><a target="_blank" href="https://www.bbva.com/en/specials/customer-service-profiles-on-social-media-by-country/">Customer service via social networks<i class="icon-nav_extlink" aria-hidden="true"></i></a></li>
+<li id="menu-item-488318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-488318"><a href="#panelNave_n2_488318" class="open-sub-panel">Special reports<i class="icon-nav_forward" aria-hidden="true"></i></a></li>
+<li id="menu-item-488389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-488389"><a href="#panelNave_n2_488389" class="open-sub-panel">BBVA webs<i class="icon-nav_forward" aria-hidden="true"></i></a></li>
+<li id="menu-item-488393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488393"><a target="_blank" href="https://careers.bbva.com/">Careers at BBVA<i class="icon-nav_extlink" aria-hidden="true"></i></a></li>
+<li id="menu-item-704916" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-704916"><a target="_blank" href="https://www.bbva.com/en/social-media/">Social media<i class="icon-nav_extlink" aria-hidden="true"></i></a></li>
+<li id="menu-item-939663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-939663"><a target="_blank" href="https://vdp.bbva.com">Vulnerability Disclosure Program<i class="icon-nav_extlink" aria-hidden="true"></i></a></li>
+</ul>            </div>
+        </div>
+        <!-- Pintamos menu lateral (tercer nivel)-->
+        
+<div id="panelNav_n2_488128"  class="anchoPanelesLaterales panelNavDespegable_n2"><div class="listadoNavegacionLateral2"><ul class="lista_menuNavLateral">
+	<li id="menu-item-615355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-615355"><a href="https://www.bbva.com/en/corporate-information/#letter-group-executive-chairman">Chair’s message</a></li>
+	<li id="menu-item-615356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-615356"><a href="https://www.bbva.com/en/corporate-information/#letter-chief-executive-officer">CEO’s message</a></li>
+	<li id="menu-item-488136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488136"><a href="https://www.bbva.com/en/corporate-information/#history-of-bbva">History of BBVA</a></li>
+	<li id="menu-item-488145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488145"><a href="https://www.bbva.com/en/corporate-information/#bbva-in-the-world">BBVA in the world</a></li>
+	<li id="menu-item-488156" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488156"><a href="https://www.bbva.com/en/corporate-information/#basic-data">Basic data</a></li>
+	<li id="menu-item-488160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488160"><a href="https://www.bbva.com/en/corporate-information/#organizational-chart">Organizational chart</a></li>
+	<li id="menu-item-488167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488167"><a href="https://www.bbva.com/en/corporate-information/#strategy-business-model">Strategy</a></li>
+	<li id="menu-item-488170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488170"><a href="https://www.bbva.com/en/corporate-information/#responsible-banking-model">Sustainability and responsible banking model</a></li>
+	<li id="menu-item-488178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488178"><a href="https://www.bbva.com/en/corporate-information/#corporate-presentation">Corporate Presentation</a></li>
+	<li id="menu-item-488183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488183"><a href="https://www.bbva.com/en/corporate-information/#code-of-conduct">Code of Conduct</a></li>
+	<li id="menu-item-488190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488190"><a href="https://www.bbva.com/en/corporate-information/#bbvas-tax-strategy">BBVA’s tax strategy</a></li>
+	<li id="menu-item-488198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488198"><a href="https://www.bbva.com/en/corporate-information/#bbva-due-diligence">BBVA Due Diligence</a></li>
+</ul></div></div>
+
+<div id="panelNav_n2_488206"  class="anchoPanelesLaterales panelNavDespegable_n2"><div class="listadoNavegacionLateral2"><ul class="lista_menuNavLateral">
+	<li id="menu-item-488214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488214"><a href="https://shareholdersandinvestors.bbva.com/bbva-group/">BBVA in 2020</a></li>
+	<li id="menu-item-488220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488220"><a href="http://shareholdersandinvestors.bbva.com/TLBB/tlbb/bbvair/ing/share/index.jsp">The Share</a></li>
+	<li id="menu-item-488224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488224"><a href="https://shareholdersandinvestors.bbva.com/wp-content/uploads/2020/03/BBVAFinancialStatementsManagementReportAuditorsReport2019_Eng.pdf">Annual Report</a></li>
+	<li id="menu-item-488226" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488226"><a href="https://shareholdersandinvestors.bbva.com/financials/financial-reports/#2018">Financial reports</a></li>
+	<li id="menu-item-488231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488231"><a href="https://shareholdersandinvestors.bbva.com/the-share/significant-events/#2020">Relevant events</a></li>
+	<li id="menu-item-488234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488234"><a href="https://shareholdersandinvestors.bbva.com/debt-investors/issuances-programs/">Issuances and programs</a></li>
+</ul></div></div>
+
+<div id="panelNav_n2_488269"  class="anchoPanelesLaterales panelNavDespegable_n2"><div class="listadoNavegacionLateral2"><ul class="lista_menuNavLateral">
+	<li id="menu-item-824508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-824508"><a href="https://www.bbva.com/en/specials/biographies/">Biographies</a></li>
+	<li id="menu-item-488294" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-488294"><a href="https://www.bbva.com/en/photos-directors-executive-leadership-team/">Photos Directors / Executive Leadership Team</a></li>
+	<li id="menu-item-488298" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488298"><a href="https://www.bbva.com/en/downloads/">Download center</a></li>
+	<li id="menu-item-488310" class="menu-item menu-item-type-post_type menu-item-object-especial menu-item-488310"><a href="https://www.bbva.com/en/specials/awards/">Awards</a></li>
+</ul></div></div>
+
+<div id="panelNav_n2_488318"  class="anchoPanelesLaterales panelNavDespegable_n2"><div class="listadoNavegacionLateral2"><ul class="lista_menuNavLateral">
+	<li id="menu-item-868717" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868717"><a href="https://www.bbva.com/en/specials/seeds-for-the-future/">Seeds the future</a></li>
+	<li id="menu-item-848816" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-848816"><a href="https://www.bbva.com/en/specials/the-road-to-economic-recovery-the-evolution-of-covid-19s-impact-on-consumption/">The road to economic recovery: the evolution of COVID-19´s impact on consumption</a></li>
+	<li id="menu-item-848817" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-848817"><a href="https://www.bbva.com/en/bbva-in-asia/">BBVA in Asia</a></li>
+	<li id="menu-item-848818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-848818"><a href="https://www.bbva.com/en/special-report-on-bankers/">Bankers</a></li>
+	<li id="menu-item-790289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-790289"><a href="https://www.bbva.com/en/specials/sustainable-development-goals/">Sustainable Development Goals</a></li>
+	<li id="menu-item-732245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-732245"><a href="https://www.bbva.com/en/specials/annual-general-meeting/">Annual General Meeting</a></li>
+	<li id="menu-item-718663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-718663"><a href="https://www.bbva.com/en/specials/cop25/">COP25</a></li>
+	<li id="menu-item-647658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-647658"><a href="https://www.bbva.com/en/specials/our-brand-logo/">Our brand</a></li>
+	<li id="menu-item-640787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-640787"><a href="https://www.bbva.com/en/analysis-and-opinion/">Analysis and Opinion</a></li>
+	<li id="menu-item-640835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-640835"><a href="https://www.bbva.com/en/specials/data/">Data</a></li>
+	<li id="menu-item-488326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488326"><a href="https://www.bbva.com/en/trading-floor/">Trading floor</a></li>
+	<li id="menu-item-488338" class="menu-item menu-item-type-post_type menu-item-object-especial menu-item-488338"><a href="https://www.bbva.com/en/specials/ciudad-bbva/">Ciudad BBVA</a></li>
+	<li id="menu-item-488348" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-488348"><a href="https://www.bbva.com/en/bbvas-historical-archives-memory-so-not-forget/">BBVA's Historical Archive</a></li>
+	<li id="menu-item-488361" class="menu-item menu-item-type-post_type menu-item-object-especial menu-item-488361"><a href="https://www.bbva.com/en/specials/bbva-research-geo-world-conflict-social-unrest/">BBVA Research</a></li>
+	<li id="menu-item-488370" class="menu-item menu-item-type-post_type menu-item-object-especial menu-item-488370"><a href="https://www.bbva.com/en/specials/bbva-labs/">BBVA Labs</a></li>
+</ul></div></div>
+
+<div id="panelNav_n2_488389"  class="anchoPanelesLaterales panelNavDespegable_n2"><div class="listadoNavegacionLateral2"><ul class="lista_menuNavLateral">
+	<li id="menu-item-488391" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488391"><a href="https://www.bbvaresearch.com/en/">BBVA Research</a></li>
+	<li id="menu-item-488399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488399"><a href="https://openinnovation.bbva.com/en">Open Innovation</a></li>
+	<li id="menu-item-488406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488406"><a href="https://www.bbvaopenmind.com/en/">OpenMind</a></li>
+	<li id="menu-item-488410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488410"><a href="http://www.fbbva.es/TLFU/tlfu/ing/home/index.jsp">BBVA Foundation</a></li>
+	<li id="menu-item-488412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488412"><a href="https://www.bbva.com/en/other-webs-bbva/">Full website list</a></li>
+</ul></div></div>
+    </div>
+
+    <div id="navegadorMovile-main" class="navegadorMovile-main" role="tablist" aria-multiselectable="true">
+        <div class="navegadorMovile-container mostrarPanelInfo">
+            <h2 class="subtituloNavegadorMovile">
+                <a href="#" class="buttonPrefooterMovile"><span class="tituloNegrita">Shareholders and investors</span></a>
+            </h2>
+        </div>
+        <div class="navegadorMovile-container linkTransactional">
+            <h2 class="subtituloNavegadorMovile">
+                <a href="https://www.bbva.com/en/bbva-banks-around-the-world/" class="buttonPrefooterMovile"><span class="tituloNegrita">BBVA in the World</span></a>
+            </h2>
+        </div>
+        <!-- Pintamos menu lateral secundario Movil-->
+                         <div class="navegadorMovile-container">
+                     <h2 class="subtituloNavegadorMovile" id="buttonInfo547778Movile">
+                         <a href="https://www.bbva.com/en/specials/results-bbva-group/" class="buttonPrefooterMovile"><span class="tituloNegrita">BBVA Earnings</span></a>
+                     </h2>
+                 </div>
+                <div class="navegadorMovile-container">
+                    <h2 class="subtituloNavegadorMovile firstItem" id="button488128Movile" role="tab">
+                        <a role="button" data-toggle="collapse" data-target="#488128Movile" class="buttonPrefooterMovile collapsed">
+                            <span class="tituloNegrita">Corporate information</span><i id="flecha488128Movile" class=" icon-nav_unfold" aria-hidden="true"></i></a>
+                    </h2>
+                    <div id="488128Movile" class="collapse">
+
+                        <ul>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-615355"><a href="https://www.bbva.com/en/corporate-information/#letter-group-executive-chairman">Chair’s message</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-615356"><a href="https://www.bbva.com/en/corporate-information/#letter-chief-executive-officer">CEO’s message</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488136"><a href="https://www.bbva.com/en/corporate-information/#history-of-bbva">History of BBVA</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488145"><a href="https://www.bbva.com/en/corporate-information/#bbva-in-the-world">BBVA in the world</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488156"><a href="https://www.bbva.com/en/corporate-information/#basic-data">Basic data</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488160"><a href="https://www.bbva.com/en/corporate-information/#organizational-chart">Organizational chart</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488167"><a href="https://www.bbva.com/en/corporate-information/#strategy-business-model">Strategy</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488170"><a href="https://www.bbva.com/en/corporate-information/#responsible-banking-model">Sustainability and responsible banking model</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488178"><a href="https://www.bbva.com/en/corporate-information/#corporate-presentation">Corporate Presentation</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488183"><a href="https://www.bbva.com/en/corporate-information/#code-of-conduct">Code of Conduct</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488190"><a href="https://www.bbva.com/en/corporate-information/#bbvas-tax-strategy">BBVA’s tax strategy</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488198"><a href="https://www.bbva.com/en/corporate-information/#bbva-due-diligence">BBVA Due Diligence</a></li>
+                       </ul>
+                    </div>
+                 </div>                 <div class="navegadorMovile-container">
+                     <h2 class="subtituloNavegadorMovile" id="buttonInfo488314Movile">
+                         <a href="https://www.bbva.com/en/contact/" class="buttonPrefooterMovile"><span class="tituloNegrita">Contact</span></a>
+                     </h2>
+                 </div>
+                <div class="navegadorMovile-container">
+                    <h2 class="subtituloNavegadorMovile firstItem" id="button488206Movile" role="tab">
+                        <a role="button" data-toggle="collapse" data-target="#488206Movile" class="buttonPrefooterMovile collapsed">
+                            <span class="tituloNegrita">BBVA financial information</span><i id="flecha488206Movile" class=" icon-nav_unfold" aria-hidden="true"></i></a>
+                    </h2>
+                    <div id="488206Movile" class="collapse">
+
+                        <ul>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488214"><a href="https://shareholdersandinvestors.bbva.com/bbva-group/">BBVA in 2020</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488220"><a href="http://shareholdersandinvestors.bbva.com/TLBB/tlbb/bbvair/ing/share/index.jsp">The Share</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488224"><a href="https://shareholdersandinvestors.bbva.com/wp-content/uploads/2020/03/BBVAFinancialStatementsManagementReportAuditorsReport2019_Eng.pdf">Annual Report</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488226"><a href="https://shareholdersandinvestors.bbva.com/financials/financial-reports/#2018">Financial reports</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488231"><a href="https://shareholdersandinvestors.bbva.com/the-share/significant-events/#2020">Relevant events</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488234"><a href="https://shareholdersandinvestors.bbva.com/debt-investors/issuances-programs/">Issuances and programs</a></li>
+                       </ul>
+                    </div>
+                 </div>                 <div class="navegadorMovile-container">
+                     <h2 class="subtituloNavegadorMovile" id="buttonInfo488241Movile">
+                         <a href="https://shareholdersandinvestors.bbva.com/financials/financial-calendar/" class="buttonPrefooterMovile"><span class="tituloNegrita">Financial calendar</span></a>
+                     </h2>
+                 </div>
+                 <div class="navegadorMovile-container">
+                     <h2 class="subtituloNavegadorMovile" id="buttonInfo841340Movile">
+                         <a href="https://www.bbva.com/en/latest-news/" class="buttonPrefooterMovile"><span class="tituloNegrita">Latest news</span></a>
+                     </h2>
+                 </div>
+                 <div class="navegadorMovile-container">
+                     <h2 class="subtituloNavegadorMovile" id="buttonInfo611368Movile">
+                         <a href="https://www.bbva.com/en/specials/bbva-podcast/" class="buttonPrefooterMovile"><span class="tituloNegrita">BBVA Podcast</span></a>
+                     </h2>
+                 </div>
+                <div class="navegadorMovile-container">
+                    <h2 class="subtituloNavegadorMovile firstItem" id="button488269Movile" role="tab">
+                        <a role="button" data-toggle="collapse" data-target="#488269Movile" class="buttonPrefooterMovile collapsed">
+                            <span class="tituloNegrita">Press Room</span><i id="flecha488269Movile" class=" icon-nav_unfold" aria-hidden="true"></i></a>
+                    </h2>
+                    <div id="488269Movile" class="collapse">
+
+                        <ul>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-824508"><a href="https://www.bbva.com/en/specials/biographies/">Biographies</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-488294"><a href="https://www.bbva.com/en/photos-directors-executive-leadership-team/">Photos Directors / Executive Leadership Team</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488298"><a href="https://www.bbva.com/en/downloads/">Download center</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-especial menu-item-488310"><a href="https://www.bbva.com/en/specials/awards/">Awards</a></li>
+                       </ul>
+                    </div>
+                 </div>                 <div class="navegadorMovile-container">
+                     <h2 class="subtituloNavegadorMovile" id="buttonInfo731997Movile">
+                         <a href="https://www.bbva.com/en/specials/customer-service-profiles-on-social-media-by-country/" class="buttonPrefooterMovile"><span class="tituloNegrita">Customer service via social networks</span></a>
+                     </h2>
+                 </div>
+                <div class="navegadorMovile-container">
+                    <h2 class="subtituloNavegadorMovile firstItem" id="button488318Movile" role="tab">
+                        <a role="button" data-toggle="collapse" data-target="#488318Movile" class="buttonPrefooterMovile collapsed">
+                            <span class="tituloNegrita">Special reports</span><i id="flecha488318Movile" class=" icon-nav_unfold" aria-hidden="true"></i></a>
+                    </h2>
+                    <div id="488318Movile" class="collapse">
+
+                        <ul>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868717"><a href="https://www.bbva.com/en/specials/seeds-for-the-future/">Seeds the future</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-848816"><a href="https://www.bbva.com/en/specials/the-road-to-economic-recovery-the-evolution-of-covid-19s-impact-on-consumption/">The road to economic recovery: the evolution of COVID-19´s impact on consumption</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-848817"><a href="https://www.bbva.com/en/bbva-in-asia/">BBVA in Asia</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-848818"><a href="https://www.bbva.com/en/special-report-on-bankers/">Bankers</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-790289"><a href="https://www.bbva.com/en/specials/sustainable-development-goals/">Sustainable Development Goals</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-732245"><a href="https://www.bbva.com/en/specials/annual-general-meeting/">Annual General Meeting</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-718663"><a href="https://www.bbva.com/en/specials/cop25/">COP25</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-647658"><a href="https://www.bbva.com/en/specials/our-brand-logo/">Our brand</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-640787"><a href="https://www.bbva.com/en/analysis-and-opinion/">Analysis and Opinion</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-640835"><a href="https://www.bbva.com/en/specials/data/">Data</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488326"><a href="https://www.bbva.com/en/trading-floor/">Trading floor</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-especial menu-item-488338"><a href="https://www.bbva.com/en/specials/ciudad-bbva/">Ciudad BBVA</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-488348"><a href="https://www.bbva.com/en/bbvas-historical-archives-memory-so-not-forget/">BBVA's Historical Archive</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-especial menu-item-488361"><a href="https://www.bbva.com/en/specials/bbva-research-geo-world-conflict-social-unrest/">BBVA Research</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-especial menu-item-488370"><a href="https://www.bbva.com/en/specials/bbva-labs/">BBVA Labs</a></li>
+                       </ul>
+                    </div>
+                 </div>                <div class="navegadorMovile-container">
+                    <h2 class="subtituloNavegadorMovile firstItem" id="button488389Movile" role="tab">
+                        <a role="button" data-toggle="collapse" data-target="#488389Movile" class="buttonPrefooterMovile collapsed">
+                            <span class="tituloNegrita">BBVA webs</span><i id="flecha488389Movile" class=" icon-nav_unfold" aria-hidden="true"></i></a>
+                    </h2>
+                    <div id="488389Movile" class="collapse">
+
+                        <ul>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488391"><a href="https://www.bbvaresearch.com/en/">BBVA Research</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488399"><a href="https://openinnovation.bbva.com/en">Open Innovation</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488406"><a href="https://www.bbvaopenmind.com/en/">OpenMind</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488410"><a href="http://www.fbbva.es/TLFU/tlfu/ing/home/index.jsp">BBVA Foundation</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-488412"><a href="https://www.bbva.com/en/other-webs-bbva/">Full website list</a></li>
+                       </ul>
+                    </div>
+                 </div>                 <div class="navegadorMovile-container">
+                     <h2 class="subtituloNavegadorMovile" id="buttonInfo488393Movile">
+                         <a href="https://careers.bbva.com/" class="buttonPrefooterMovile"><span class="tituloNegrita">Careers at BBVA</span></a>
+                     </h2>
+                 </div>
+                 <div class="navegadorMovile-container">
+                     <h2 class="subtituloNavegadorMovile" id="buttonInfo704916Movile">
+                         <a href="https://www.bbva.com/en/social-media/" class="buttonPrefooterMovile"><span class="tituloNegrita">Social media</span></a>
+                     </h2>
+                 </div>
+                 <div class="navegadorMovile-container">
+                     <h2 class="subtituloNavegadorMovile" id="buttonInfo939663Movile">
+                         <a href="https://vdp.bbva.com" class="buttonPrefooterMovile"><span class="tituloNegrita">Vulnerability Disclosure Program</span></a>
+                     </h2>
+                 </div>
+        <div class="navegadorMovileIdioma-container">
+            <p class="idiomasNavegadorMovile"><i class="icon-commu_idioma" aria-hidden="true"></i><a href="https://www.bbva.com/en/" class="inactive">English</a><a href="https://www.bbva.com/es/" class="active">Español</a></p>
+        </div>
+    </div>
+</div>
+        </div>
+        <!-- PANEL accionistas -->
+        <div id="panelInfoContent" class="panelInfo-main rs_skip" data-menu-version="20230323100423">
+                        <div class="panelInfo-content container">
+                <div class="row panelInfoCerrar">
+                    <p id="ocultarPanelInfo" value="ocultar" class="close_panelInfo punteroMano"><i class="icon-nav_close"></i><span class="textoIconoOcultar">Close panel</span></p>
+                </div>
+                <div class="row panelInfoSup">
+
+                    <div class="col-xs-6 col-sm-3 panelInfo-grupo"><h2 class="titulo_panelInfo"><a target="_blank" href="https://shareholdersandinvestors.bbva.com/">Home</a></h2><ul class="lista_panelInfo"><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/bbva-group/"><strong>BBVA Group</strong></a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/bbva-group/bbva-in-brief/">BBVA in brief</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/bbva-group/organization-chart/">Organization chart</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/bbva-group/business-areas/">Business areas</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/bbva-group/strategy-bbvas-transformation/">Strategy: BBVA’s transformation</a></li></ul></div><div class="col-xs-6 col-sm-3 panelInfo-grupo"><h2 class="titulo_panelInfo"><a target="_blank" href="https://shareholdersandinvestors.bbva.com/financials/">Financials</a></h2><ul class="lista_panelInfo"><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/financials/financial-reports/">Financial reports</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/financials/presentations/">Presentations</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/financials/financial-data/">Financial data</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/financials/risk-management/">Risk management</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/financials/financial-calendar/">Financial calendar</a></li></ul></div>
+                    <div class="clearfix visible-xs"></div>
+
+                    <div class="col-xs-6 col-sm-3 panelInfo-grupo"><h2 class="titulo_panelInfo"><a target="_blank" href="https://shareholdersandinvestors.bbva.com/the-share/">The Share</a></h2><ul class="lista_panelInfo"><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/the-share/share-information/">Share information</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/the-share/capital-stock/">Capital information</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/the-share/shareholders-remuneration/">Shareholders remuneration</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/the-share/equity-analysts/">Equity analysts</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/the-share/adrs-english/">ADRs</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/the-share/significant-events/">Significant events</a></li></ul></div><div class="col-xs-6 col-sm-3 panelInfo-grupo"><h2 class="titulo_panelInfo"><a target="_blank" href="https://shareholdersandinvestors.bbva.com/shareholders/">Shareholders</a></h2><ul class="lista_panelInfo"><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/shareholders/financial-products/">Financial products</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/shareholders/club/">Shareholders club</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/shareholders/shareholders-investors-communication-contact-policy/">Shareholders and Investors Communication and Contact Policy</a></li></ul></div>
+                </div>
+                <hr size="20" noshade="noshade" class="lineaHorizontalCorta" />
+                <div class="row panelInfoInf">
+
+                    <div class="col-xs-6 col-sm-3 panelInfo-grupo"><h2 class="titulo_panelInfo"><a target="_blank" href="https://shareholdersandinvestors.bbva.com/debt-investors/">Debt investors</a></h2><ul class="lista_panelInfo"><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/debt-investors/issuances-programs/">Issuances and programs</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/debt-investors/issuing-companies/">Issuing companies</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/debt-investors/maturity-profile/">Maturity profile</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/debt-investors/ratings/">Ratings</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/debt-investors/presentaciones-renta-fija/">Presentations</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/debt-investors/fixed-income-analysts/">Fixed Income Analysts</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/debt-investors/contact-debt-investors/">Contact debt investors</a></li></ul></div><div class="col-xs-6 col-sm-3 panelInfo-grupo"><h2 class="titulo_panelInfo"><a target="_blank" href="https://shareholdersandinvestors.bbva.com/sustainability-and-responsible-banking/">Sustainability and Responsible Banking</a></h2><ul class="lista_panelInfo"><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/sustainability-and-responsible-banking/strategy-sustainability/">Sustainability strategy</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/sustainability-and-responsible-banking/sustainable-financing/">Sustainable Financing</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/sustainability-and-responsible-banking/principles-and-policies/">Principles and policies</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/sustainability-and-responsible-banking/informes-banca-responsable/">Presentation and Reports</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/sustainability-and-responsible-banking/sustainability-ratings/">Sustainability ratings</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/sustainability-and-responsible-banking/fiscalidad-responsable/">Responsible taxation</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/sustainability-and-responsible-banking/average-payment-period-suppliers/">Average payment period suppliers</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/sustainability-and-responsible-banking/contact-responsible-business/">Contacts Responsible Banking</a></li></ul></div>
+                    <div class="clearfix visible-xs"></div>
+
+                    <div class="col-xs-12 col-sm-6 panelInfo-grupo"><h2 class="titulo_panelInfo"><a target="_blank" href="https://shareholdersandinvestors.bbva.com/corporate-governance-and-remuneration-policy/">Corporate Governance and Remuneration Policy</a></h2><div class="col-xs-6 col-sm-6 fleft"><ul class="lista_panelInfo"><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/corporate-governance-and-remuneration-policy/corporate-bylaws/">Corporate Bylaws</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/corporate-governance-and-remuneration-policy/general-meeting-regulations/">General Meeting Regulations</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/corporate-governance-and-remuneration-policy/information-related-to-agm-held/">Information related AGM held</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/corporate-governance-and-remuneration-policy/board-regulations/">Board Regulations</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/corporate-governance-and-remuneration-policy/board-of-directors/">Board of Directors</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/corporate-governance-and-remuneration-policy/board-committees/">Board Committees</a></li></ul></div><div class="col-xs-6 col-sm-6 fright"><ul class="lista_panelInfo"><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/corporate-governance-and-remuneration-policy/directors-remuneration/">Director's Remuneration</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/corporate-governance-and-remuneration-policy/information-related-to-identified-staff/">Information related to Identified Staff</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/corporate-governance-and-remuneration-policy/annual-corporate-governance-report-2/">Annual Corporate Governance Report</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/corporate-governance-and-remuneration-policy/information-circular-22016-of-bank-of-spain/">Information Circular 2/2016 of Bank of Spain</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/corporate-governance-and-remuneration-policy/internal-standards-of-conduct-in-the-securities-markets/">BBVA Policy on Conduct in the Securities Markets</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/corporate-governance-and-remuneration-policy/auditors/">Auditors</a></li><li><a target="_blank" href="https://shareholdersandinvestors.bbva.com/corporate-governance-and-remuneration-policy/informacion-operaciones-integracion/">Information related to integration transactions</a></li></ul></div></div>
+                </div>
+            </div>
+        </div>
+        <header class="header-main rs_skip">
+            <div class="header-container container">
+                <div class="headerTop row">
+                    <div id="headerTop_menuSecundario" class="headerTop_menuSecundario col-md-7 col-sm-10 col-xs-10" data-menu-version="20190608085554">
+                        <ul class="lista_menuTop">
+    <li id="menu-item-483835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-483835"><a href="https://www.bbva.com/en/corporate-information/">Corporate information</a></li>
+    <li class="mostrarPanelInfo"><a href="#"><span class="textoIconoColocar">Shareholders and investors</span></a><i class=" icon-nav_unfold iconoFechaArriba" aria-hidden="true"></i></li>
+    <li class="linkTransactionalReplace"><a href="https://www.bbva.com/en/bbva-banks-around-the-world/">BBVA in the World</a></li>
+</ul>
+                    </div>
+                    <div class="headerTop_tools col-md-5 col-sm-2 col-xs-2">
+                        <ul class="lista_menuTools">
+                            <li class="itemMenu_buscador"><i id="buscadorLupa" class="icon-tools_search" aria-hidden="true"></i><span class="textoIconoOcultar">Browser</span></li>
+                            <li class="itemMenu_idioma"><i class="icon-commu_idioma" aria-hidden="true"></i><a href="https://www.bbva.com/en/" class="inactive">English</a><a href="https://www.bbva.com/es/" class="active">Español</a></li>
+                            <li class="itemMenu_mercado"><iframe src="//tools.eurolandir.com/tools/ticker/scrolling/?companycode=es-boy&v=v2.1&lang=en-gb" loading="lazy" id="accionistas_id" width="250" height="12" scrolling="no" frameborder="0" title="mercado"></iframe></li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="headerLogo row">
+                    <h1 class="headerLogo_titular"><a class="home-redirec" href="https://www.bbva.com/en"><i class="icon-logo_BBVA"></i><span class="textoIconoOcultar">BBVA.com</span></a></h1>
+                </div>
+                <nav class="headerNav row">
+                    <div id="headerNav_menuPrincipal" class="headerNav_menuPrincipal" data-menu-version="20230216110141">
+                        <ul id="menu-main-header-menu" class="lista_menuPrincipal"><li id="menu-item-964398" class="menu-item menu-item-type-post_type menu-item-object-section menu-item-964398"><a href="https://www.bbva.com/en/innovation/">Innovation</a></li>
+<li id="menu-item-483633" class="menu-item menu-item-type-post_type menu-item-object-section menu-item-483633"><a href="https://www.bbva.com/en/finance/">Finance</a></li>
+<li id="menu-item-483635" class="menu-item menu-item-type-post_type menu-item-object-section menu-item-483635"><a href="https://www.bbva.com/en/economy/">Economy</a></li>
+<li id="menu-item-483630" class="menu-item menu-item-type-post_type menu-item-object-section menu-item-483630"><a href="https://www.bbva.com/en/responsible-banking/">Sustainability and Responsible Banking</a></li>
+<li id="menu-item-718972" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-718972"><a href="https://www.bbvaopenmind.com/en/">OpenMind</a></li>
+<li id="menu-item-964399" class="menu-item menu-item-type-post_type menu-item-object-especial menu-item-964399"><a href="https://www.bbva.com/en/specials/bbva-podcast/">Podcast</a></li>
+<li id="menu-item-964400" class="menu-item menu-item-type-post_type menu-item-object-especial menu-item-964400"><a href="https://www.bbva.com/en/specials/the-cenyt-case/">Cenyt Case</a></li>
+</ul>                    </div>
+                    <div class="headerNav_menuLateral">
+                        <i id="mostrarPanelNavegacion" class=" icon-nav_menu punteroMano"></i><span class="textoIconoOcultar">See main menu</span>
+                    </div>
+                    <div class="headerNav_buscador">
+                        <i id="buscadorLupa_xs" class="icon-tools_search" aria-hidden="true"></i><span class="textoIconoOcultar">Browser</span>
+                    </div>
+                </nav>
+            </div>
+        </header>
+<main class="page_detail_sostenibilidad">
+        <div class=" container-fluid">
+        <!-- CONTENT_ARTICLE_START -->
+        <article class="detail_article detail_page" data-sticker-link="https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/" data-sticker="BBVA's decarbonization targets: What do they mean and what is their scope?">
+            <div class="detContShare_block hidden-xs rs_skip rs_preserve">
+    <div class="container">
+        <div class="component_share_block">
+            <!-- Compartir en redes -->
+            <span class="share-message">Share</span>
+            <div class="post-share right-aside rs_skip share-this-widget">
+                <div class="social-share-container">
+                    <ul class="addthis_inline_share_toolbox" data-url="https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/" data-title="BBVA's decarbonization targets: What do they mean and what is their scope?">
+                        <li class="at-resp-share-element">
+                            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/" class="at-share-btn show-social" data-service="facebook" target="shareWindow" aria-label="facebook">
+                                <i class="icon-rrss_facebook2 at-icon-wrapper"></i>
+                                <span>facebook</span>
+                            </a>
+                        </li>
+                        <li class="at-resp-share-element">
+                            <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.bbva.com%2Fen%2Fsustainability%2Fbbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope%2F&text=BBVA%27s+decarbonization+targets%3A+What+do+they+mean+and+what+is+their+scope%3F" class="at-share-btn show-social" data-service="twitter" target="shareWindow">
+                                <svg viewBox="0 0 24 24" aria-label="Twitter" role="img" style="width: 17px;height: 17px;">
+                                    <g>
+                                        <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713
+                                            6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" style=" stroke: white; fill: white; "></path>
+                                    </g>
+                                </svg> <span>twitter</span>
+                            </a>
+                        </li>
+                        <li class="at-resp-share-element">
+                            <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/&title=BBVA.com | BBVA's decarbonization targets: What do they mean and what is their scope?" class="at-share-btn show-social" data-service="linkedin" target="shareWindow" aria-label="linkedin">
+                                <i class="icon-rrss_linkedin2 at-icon-wrapper"></i>
+                                <span>linkedin</span>
+                            </a>
+                        </li>
+                        <li class="at-resp-share-element">
+                            <a href="https://api.whatsapp.com/send?text=BBVA's decarbonization targets: What do they mean and what is their scope? https%3A%2F%2Fwww.bbva.com%2Fen%2Fsustainability%2Fbbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope%2F " class="at-share-btn show-social" data-service="whatsApp" target="shareWindow" aria-label="whatsapp">
+                                <i class="icon-commu_whatsapp at-icon-wrapper"></i>
+                                <span>whatsapp</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <ul class="go-top-container">
+                <li class="go-top"><a href="#top" aria-label="Up"><span class="content_arrows"><i class="arrows"></i></span><span class="up">Up</span></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="top" class="row detContHeader detContHeader872235">
+    <div class="container">
+        <div class="row">
+                        <div class="position col-md-push-1 col-md-10 col-sm-12 col-xs-12">
+                                    
+<div class="detAreaDate rs_skip">
+                        <a href="https://www.bbva.com/en/sustainability/commitment/" class="area">Commitment</a>&gt;
+            <a href="https://www.bbva.com/en/sustainability/commitment/bbva-sustainability-projects/" class="area">BBVA Sustainability Projects</a>
+                        <span class="date">04 Nov 2021</span>
+    </div>                                <h1 class="article-title">BBVA's decarbonization targets: What do they mean and what is their scope?</h1>
+            </div>
+        </div>
+    </div>
+</div>            <!-- CONTENT_START_GOOGLE_DATALAYER -->
+<script type="text/javascript">
+    dataLayerObject = {
+        "isSinglePost": true,
+        "postTitle": "BBVA's decarbonization targets: What do they mean and what is their scope?",
+        "postID": "872235",
+        "postAuthors": "Communications",
+        "postType": "Noticia simple sustainability",
+        "postPublishDate": "2021-11-04",
+        "postModifiedDate": "2022-10-11",
+        "postLanguage": "EN",
+        "postCountries": "HOLDING",
+        "postTags": "BBVA Sustainability Projects, Commitment, Sustainability",
+        "process": "Citizenship",
+        "PostURL": "\/en\/sustainability\/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope\/",
+        "scope": "global"    }
+
+
+    if (typeof dataLayerFirst === 'undefined' || !dataLayerFirst) {
+        closeCookiesPanelPromise.then((response) => {
+            dataLayer.push(dataLayerObject);
+            dataLayerFirst = true;
+        });
+    }
+</script>
+<!-- CONTENT_END_GOOGLE_DATALAYER -->
+            <div class="row detContContent detContContent872235">
+                                <div class="detContIntro">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-offset-1 col-md-10 col-sm-12 col-xs-12">
+                                <p><span style="font-weight: 400;">The role of banking is fundamental as a </span><b>financier of all productive sectors</b><span style="font-weight: 400;">. The influence that can be exerted on the behavior of banking customers and their environmental performance, through such financing, is critical to achieving the objectives of the </span><a href="https://www.bbva.com/es/sostenibilidad/que-es-el-acuerdo-de-paris-y-que-supone-para-el-planeta/"><span style="font-weight: 400;">Paris Agreement.</span></a></p>
+<p>- <a href="https://www.bbva.com/en/sustainability/bbva-commits-to-reduce-emissions-from-its-oil-and-gas-client-portfolio-by-30-by-2030/">BBVA commits to reduce emissions from its oil and gas client portfolio by 30% by 2030</a></p>
+            </div>
+        </div>
+    </div>
+</div>                <div class="detContHeaderBg rs_skip">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 cl-sm-12 col-xs-12">
+                                    <figure>
+                        <picture>
+                            <source media="(max-width: 768px)" srcset="https://www.bbva.com/wp-content/uploads/2022/10/descarbonización-768x472.jpg" />
+                            <source media="(max-width: 1024px)" srcset="https://www.bbva.com/wp-content/uploads/2022/10/descarbonización-1024x629.jpg" />
+                            <source media="(max-width: 1920px)" srcset="https://www.bbva.com/wp-content/uploads/2022/10/descarbonización.jpg" />
+                            <source media="(min-width: 1921px)" srcset="https://www.bbva.com/wp-content/uploads/2022/10/descarbonización.jpg" />
+                            <img loading="eager" width="1140" height="640" src="https://www.bbva.com/wp-content/uploads/2022/10/descarbonización-150x150.jpg" alt="" title="" />
+                        </picture>
+                        <!-- <figcaption></figcaption> -->
+                    </figure>
+                            </div>
+        </div>
+    </div>
+</div>
+
+                
+                <div class="detContAuthorHeader rs_skip">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                <div class="component_author_header">
+                                                                        <div class="author">
+                                <a href="https://www.bbva.com/en/guest-authors/communications/" aria-label="Communications ">
+                                    <div class="avatar" style="background-image: url('https://www.bbva.com/wp-content/uploads/2019/06/favicon_256px-150x150.png')"></div>
+                                </a>
+                                <div class="dataAuthor">
+                                    <a href="https://www.bbva.com/en/guest-authors/communications/"><span class="name">Communications </span></a>
+                                                                    </div>
+                                <div class="social">
+                                                                        
+                                </div>
+                            </div>
+                                                            </div>
+
+            </div>
+        </div>
+    </div>
+</div>                <div class="detContMedia rs_skip">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                <div class="component_media">
+                    <div class="mediaContent rs_preserve">
+                        <a target="_blank" rel="nofollow" class="audio" accesskey="L" title="Listen this page using ReadSpeaker" href="https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=8166&amp;lang=en&amp;readclass=detContHeader872235,detContContent872235&amp;url=https%3A%2F%2Fwww.bbva.com%2Fen%2Fsustainability%2Fbbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope%2F" onclick="readpage(this.href, 'xp872235'); return false;">
+                            <i class="icon-commu_audio"></i>
+                            <span>Listen to audio</span>
+                        </a>
+                                                    <a href="https://www.bbva.com/es/sostenibilidad/objetivos-de-descarbonizacion-de-bbva-que-significan-y-cual-es-su-alcance/">
+                                <i class="icon-commu_press"></i>
+                                <span>Leer en español</span>
+                            </a>
+                                                                        <div id="xp872235" class="rs_skip rsbtn_colorskin rs_addtools rs_splitbutton rs_exp"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                <div class="detContText">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                            </div>
+        </div>
+    </div>
+</div>
+                                <div class="detArtImg rs_skip">
+    <div class="component_img_text_size">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <figure>
+                        <img loading="lazy" class="hidden-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/strategic-priorities-bbva-sustainability-BBVA.jpg" alt="" style="width: 100%;" />
+                        <img loading="lazy" class="visible-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/strategic-priorities-bbva-sustainability-BBVA-MV.jpg" alt="" style="width: 100%;" />
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="detArtImg rs_skip">
+    <div class="component_img_text_size">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <figure>
+                        <img loading="lazy" class="hidden-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/CINTILLO_NET_ZERO_2050.jpg" alt="" style="width: 100%;" />
+                        <img loading="lazy" class="visible-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/CINTILLO_NET_ZERO_2050-MV.jpg" alt="" style="width: 100%;" />
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    <div class="detContText">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <p><span style="font-weight: 400;">As part of this focus on climate action, BBVA has announced </span><b>targets for the </b><a href="https://www.bbva.com/es/sostenibilidad/que-es-la-descarbonizacion-y-que-implica-un-objetivo-a-cumplir/"><b>decarbonization</b></a><b> of its loan portfolio in 2030 </b><span style="font-weight: 400;">for </span><a href="https://www.bbva.com/es/sostenibilidad/que-es-el-dioxido-de-carbono-co2-y-como-impacta-en-el-planeta/"><span style="font-weight: 400;">CO</span><span style="font-weight: 400;">2</span></a><span style="font-weight: 400;"> intensive industries.  These are intermediate targets with a view to becoming carbon neutral by 2050.</span></p>
+<p><span style="font-weight: 400;">In April 2021 BBVA announced the </span><a href="https://www.bbva.com/es/bbva-se-compromete-a-ser-neutro-en-emisiones-de-carbono-en-2050/"><b>Net Zero </b></a><b>2050 commitment</b><span style="font-weight: 400;"> (zero net emissions in 2050), which considers both direct and indirect emissions, including among the latter those of customers who receive financing from the bank. BBVA wants</span> <a href="https://www.bbva.com/es/sostenibilidad/el-compromiso-de-bbva-por-un-mundo-mas-verde-e-inclusivo/"><span style="font-weight: 400;">to accompany its customers in their transition to a more sustainable future</span></a><span style="font-weight: 400;">, with specific plans and objectives.    </span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="detArtImg rs_skip">
+    <div class="component_img_text_size">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <figure>
+                        <img loading="lazy" class="hidden-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/quote_en.jpg" alt="" style="width: 100%;" />
+                        <img loading="lazy" class="visible-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/quote_mv_en.jpg" alt="" style="width: 100%;" />
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    <div class="detContText">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <p><span style="font-weight: 400;">On March 5, 2021, BBVA published its commitment to </span><a href="https://www.bbva.com/es/bbva-dejara-de-financiar-a-empresas-del-carbon/"><b>reduce its exposure to coal-related activities to zero</b></a><span style="font-weight: 400;">, stopping the financing of companies in these activities before 2030 in developed countries and before 2040 in the rest of the countries in which it is present. This decision is in line with the proposal of the </span><b>Intergovernmental Panel on Climate Change's (IPCC),</b><span style="font-weight: 400;"> to limit the rise in temperatures to a maximum of 1.5ºC and with the aim of achieving a carbon neutral economy in 2050.</span></p>
+<p><span style="font-weight: 400;">On November 3, 2021, </span><b>a first exercise to align the bank's lending portfolio with the Paris Agreement was published</b><span style="font-weight: 400;">.  </span><span style="font-weight: 400;">It publishes interim 2030 decarbonization targets for the </span><b>power generation sector as well as for the automotive, steel and cement sectors</b><span style="font-weight: 400;">, implementation timelines and a breakdown of the metrics used to shape this commitment.  </span></p>
+<p><span style="font-weight: 400;">On October 5, 2022, we added the </span><b>oil and gas sector</b><span style="font-weight: 400;"> to the bank's portfolio alignment. </span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="detArtImg rs_skip">
+                        <div class="component_img_text_size">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+
+                                                    <figure>
+                                <picture>
+                                    <source media="(max-width: 768px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <source media="(max-width: 1024px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <source media="(max-width: 1920px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <source media="(min-width: 1921px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <img width="730" height="1" loading="lazy" src="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg" alt="" title="" />
+                                </picture>
+                            </figure>
+                        
+                                            </div>
+                </div>
+            </div>
+        </div>
+
+    
+</div><div class="detArtImg rs_skip">
+    <div class="component_img_text_size">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <figure>
+                        <img loading="lazy" class="hidden-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/CINTILLO_COMMITMENT.jpg" alt="" style="width: 100%;" />
+                        <img loading="lazy" class="visible-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/CINTILLO_COMMITMENT-MV.jpg" alt="" style="width: 100%;" />
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    <div class="detContText">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <p>The alignment indicators were calculated in accordance with the methodologies available today in the market. It is worth noting that information availability remains limited on most sectors in terms of both volume and granularity.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="detArtImg rs_skip">
+                        <div class="component_img_text_size">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+
+                                                    <figure>
+                                <picture>
+                                    <source media="(max-width: 768px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <source media="(max-width: 1024px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <source media="(max-width: 1920px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <source media="(min-width: 1921px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <img width="730" height="1" loading="lazy" src="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg" alt="" title="" />
+                                </picture>
+                            </figure>
+                        
+                                            </div>
+                </div>
+            </div>
+        </div>
+
+    
+</div><div class="detArtImg rs_skip">
+    <div class="component_img_text_size">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <figure>
+                        <img loading="lazy" class="hidden-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/CINTILLO_ALIGMENT.jpg" alt="" style="width: 100%;" />
+                        <img loading="lazy" class="visible-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/CINTILLO_ALIGMENT-MV.jpg" alt="" style="width: 100%;" />
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    <div class="detContText">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <p><span style="font-weight: 400;">The idea of aligning the loan book with the Paris Agreement has recently emerged as the new paradigm to get the financial industry to embrace and pursue climate action. </span></p>
+<p><span style="font-weight: 400;">The idea draws from the fact that </span><b>financial flows must be consistent with a low </b><a href="https://www.bbva.com/es/sostenibilidad/que-es-el-efecto-invernadero-respuestas-para-frenar-el-cambio-climatico/"><b>greenhouse gas emissions</b></a><b> path </b><span style="font-weight: 400;">and be geared toward a climate-resilient development to keep the global average temperature from rising above 2°C relative to pre-industrial levels, and as close to 1.5°C as possible.    </span></p>
+<p><span style="font-weight: 400;">Alignment methodologies help to understand how financial flows contribute to decarbonization, assigning an environmental performance indicator to the loan portfolio.   This metric is compared against the benchmark offered by climate change scenarios, and in combination with these, it allows to define the targets that are applied to clients.</span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="detArtImg rs_skip">
+    <div class="component_img_text_size">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <figure>
+                        <img loading="lazy" class="hidden-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/why-do-measure-alignment-bbva.jpg" alt="" style="width: 100%;" />
+                        <img loading="lazy" class="visible-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/why-do-measure-alignment-bbva-sustainability-mv-scaled.jpg" alt="" style="width: 100%;" />
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="detArtImg rs_skip">
+    <div class="component_img_text_size">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <figure>
+                        <img loading="lazy" class="hidden-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/how-do-measure-it-alignment-bbva.jpg" alt="" style="width: 100%;" />
+                        <img loading="lazy" class="visible-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/how-do-measure-it-alignment-bbva-mv-scaled.jpg" alt="" style="width: 100%;" />
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    <div class="detContText">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <p><b>BBVA, in a joint effort with the group known as the </b><a href="https://www.bbva.com/es/sostenibilidad/bbva-apuesta-por-una-metodologia-conjunta-para-alinear-su-cartera-al-acuerdo-de-paris/"><b>Katowice</b><b> banks</b></a><b> (for making their commitment after the Climate Summit, held in that Polish city in 2018) and the 2dii think tank, has implemented the PACTA</b><span style="font-weight: 400;"> (Paris Agreement Capital Transition Assessment) methodology to measure the alignment of its loan book with the Paris objectives, covering the coal, power generation, automotive, steel and cement industries.  </span></p>
+<p><span style="font-weight: 400;">Furthermore, BBVA is cooperating in the development of the PCAF (Partnership for Carbon Accounting Financials) methodology, that will allow it to measure its emissions and set alignment objectives in compliance with the aforementioned principles for other sectors such as oil and gas, as published on October 5th, and real estate and agriculture.</span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="detArtImg rs_skip">
+    <div class="component_img_text_size">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <figure>
+                        <img loading="lazy" class="hidden-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/DISCLOSURE-alignment-bbva-statement.jpg" alt="" style="width: 100%;" />
+                        <img loading="lazy" class="visible-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/DISCLOSURE-alignment-bbva-statement-MV.jpg" alt="" style="width: 100%;" />
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="detArtImg rs_skip">
+    <div class="component_img_text_size">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <figure>
+                        <img loading="lazy" class="hidden-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/métricas_en-buenaaa.jpg" alt="" style="width: 100%;" />
+                        <img loading="lazy" class="visible-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/métricas_mv_en-buena-scaled.jpg" alt="" style="width: 100%;" />
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="detArtImg rs_skip">
+                        <div class="component_img_text_size">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+
+                                                    <figure>
+                                <picture>
+                                    <source media="(max-width: 768px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <source media="(max-width: 1024px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <source media="(max-width: 1920px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <source media="(min-width: 1921px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <img width="730" height="1" loading="lazy" src="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg" alt="" title="" />
+                                </picture>
+                            </figure>
+                        
+                                            </div>
+                </div>
+            </div>
+        </div>
+
+    
+</div><div class="detArtImg rs_skip">
+    <div class="component_img_text_size">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <figure>
+                        <img loading="lazy" class="hidden-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/CINTILLO_SCENARIOS-bbva-alignment.jpg" alt="" style="width: 100%;" />
+                        <img loading="lazy" class="visible-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/CINTILLO_SCENARIOS-bbva-alignment-MV.jpg" alt="" style="width: 100%;" />
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    <div class="detContText">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <p>Alignment methodologies need climate change scenarios to establish a reference of how the sectors and, consequently, portfolios and clients should behave.</p>
+<p>In line with its commitments, BBVA has decided to adopt the 1.5ºC scenario by way of reference, and specifically the <strong>Net Zero by 2050 scenario defined by the International Energy Agency (IEA).</strong></p>
+<p>The IEA's new Net Zero scenario brings the net zero deadline forward to 2040 for the power generation sector and proposes a car fleet with 86% of electric cars by 2050.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="detArtList_numberColumns">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <div class="component_list_number_columns">
+                        <h3>Breakdown by sectors</h3>
+                                                                            <ol class="row">
+                                                                    <li class="col-md-6 col-sm-12 col-xs-12">
+                                        <h4>Power generation</h4>
+                                        <div class="description">
+                                            <p><img loading="lazy" class="alignnone size-medium wp-image-870357" src="https://www.bbva.com/wp-content/uploads/2021/10/Mesa-de-trabajo-25-copiaCARATULAS_3T2021-295x300.jpg" alt="" width="295" height="300" srcset="https://www.bbva.com/wp-content/uploads/2021/10/Mesa-de-trabajo-25-copiaCARATULAS_3T2021-295x300.jpg 295w, https://www.bbva.com/wp-content/uploads/2021/10/Mesa-de-trabajo-25-copiaCARATULAS_3T2021.jpg 301w" sizes="(max-width: 295px) 100vw, 295px" /></p>
+<p>The decarbonization trend in the power industry is clear. Boosting investments in renewable energies could lead to the decarbonization of the sector in advanced economies between 2030 and 2040 and in emerging markets after 2040. The sector’s largest groups are committing to increase their renewable generation capacity, mainly wind and solar, phasing out coal from their generation portfolios over the next decade and slightly curtailing the weight of gas in Europe, while in maintaining or slightly increasing it in emerging economies.</p>
+                                        </div>
+                                    </li>
+                                                                    <li class="col-md-6 col-sm-12 col-xs-12">
+                                        <h4>Automotive</h4>
+                                        <div class="description">
+                                            <p><img loading="lazy" class="alignnone size-medium wp-image-870348" src="https://www.bbva.com/wp-content/uploads/2021/10/Mesa-de-trabajo-25CARATULAS_3T2021-295x300.jpg" alt="" width="295" height="300" srcset="https://www.bbva.com/wp-content/uploads/2021/10/Mesa-de-trabajo-25CARATULAS_3T2021-295x300.jpg 295w, https://www.bbva.com/wp-content/uploads/2021/10/Mesa-de-trabajo-25CARATULAS_3T2021.jpg 301w" sizes="(max-width: 295px) 100vw, 295px" /></p>
+<p>Electrification is leading to a profound overhaul of the automotive industry and its business models. Regulation to curb emissions from vehicle use has become the main driver behind this transformation. As a result, automakers have been announcing aggressive investments in technology and electric batteries in recent years, and pledged to phase out the production of internal combustion motor vehicles within the next 15 years. Globally, electric vehicle sales are expected to reach 10.7 million by 2025 and 28.2 million by 2030, with emissions at about 121 g CO2/km.</p>
+                                        </div>
+                                    </li>
+                                                                    <li class="col-md-6 col-sm-12 col-xs-12">
+                                        <h4>Steel</h4>
+                                        <div class="description">
+                                            <p><img loading="lazy" class="alignnone size-medium wp-image-870353" src="https://www.bbva.com/wp-content/uploads/2021/10/Mesa-de-trabajo-25-copia-3CARATULAS_3T2021-295x300.jpg" alt="" width="295" height="300" srcset="https://www.bbva.com/wp-content/uploads/2021/10/Mesa-de-trabajo-25-copia-3CARATULAS_3T2021-295x300.jpg 295w, https://www.bbva.com/wp-content/uploads/2021/10/Mesa-de-trabajo-25-copia-3CARATULAS_3T2021.jpg 301w" sizes="(max-width: 295px) 100vw, 295px" /></p>
+<p>The decarbonization of the steel industry will require very relevant investments in the coming years for the development of appropriate technologies. Emission intensity is expected to reach 860 kg CO2 per ton of steel by 2030. After that, it should begin to decline more rapidly, with the advent of new renewable energy sources - especially green hydrogen - and carbon capture technologies. Through 2030, to meet their emission reduction targets, the industry’s largest players will focus on prioritizing lower-emission manufacturing routes or the use of scrap in the metal mix.</p>
+                                        </div>
+                                    </li>
+                                                                    <li class="col-md-6 col-sm-12 col-xs-12">
+                                        <h4>Cement</h4>
+                                        <div class="description">
+                                            <p><img loading="lazy" class="alignnone size-medium wp-image-870350" src="https://www.bbva.com/wp-content/uploads/2021/10/Mesa-de-trabajo-25-copia-2CARATULAS_3T2021-295x300.jpg" alt="" width="295" height="300" srcset="https://www.bbva.com/wp-content/uploads/2021/10/Mesa-de-trabajo-25-copia-2CARATULAS_3T2021-295x300.jpg 295w, https://www.bbva.com/wp-content/uploads/2021/10/Mesa-de-trabajo-25-copia-2CARATULAS_3T2021.jpg 301w" sizes="(max-width: 295px) 100vw, 295px" /></p>
+<p>The cement industry will rely on traditional levers to curb emissions down to 482 g CO2/ton of cement by 2030. In other words, reducing the clinker factor, using alternative fuels instead of fossil fuels and replacing a portion of the limestone they use with alternative raw materials. Although the decarbonization scenarios consider carbon capture, use and storage (CCUS) technology as one of the levers in reducing CO2 emissions, the largest groups in the sector consider it will remain irrelevant over the next decade, given its current state of maturity. Consequently, the slope of the CO2 emission reduction curve should become steeper after 2030, once CCUS technology becomes available on a large scale.</p>
+                                        </div>
+                                    </li>
+                                                                    <li class="col-md-6 col-sm-12 col-xs-12">
+                                        <h4>Oil and gas </h4>
+                                        <div class="description">
+                                            <p><img loading="lazy" class="alignnone size-full wp-image-938520" src="https://www.bbva.com/wp-content/uploads/2021/11/petroleo-1.jpg" alt="" width="295" height="300" /></p>
+<p>The oil and gas industry plays a key role in the transition of the energy sector. Emissions from oil and gas operations (Scope 1 and 2) are largely focused on oil and gas exploration, drilling and extraction activities, mainly due to methane leakage from the sector. There are currently strategic initiatives available to reduce emissions in these scopes, mainly related to the management of fugitive emissions.</p>
+<p>However, the core of the sector's emissions are Scope 3 emissions, associated with the use of oil and gas by end users. These emissions correspond to ~80% of the sector's emissions and their reduction will necessarily entail a drop in oil and gas consumption in favor of other forms of low-carbon energy generation. Many industry groups are transitioning to multi-energy models to accommodate this transition.</p>
+                                        </div>
+                                    </li>
+                                                            </ol>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="detArtImg rs_skip">
+                        <div class="component_img_text_size">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+
+                                                    <figure>
+                                <picture>
+                                    <source media="(max-width: 768px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <source media="(max-width: 1024px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <source media="(max-width: 1920px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <source media="(min-width: 1921px)" srcset="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib.jpg">
+                                    <img width="730" height="1" loading="lazy" src="https://www.bbva.com/wp-content/uploads/2021/03/filete_aqua_cintillo_especial_asia_bbva_cib-150x1.jpg" alt="" title="" />
+                                </picture>
+                            </figure>
+                        
+                                            </div>
+                </div>
+            </div>
+        </div>
+
+    
+</div><div class="detArtImg rs_skip">
+    <div class="component_img_text_size">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <figure>
+                        <img loading="lazy" class="hidden-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/CINTILLO_TARGET_BREAKDOWN.jpg" alt="" style="width: 100%;" />
+                        <img loading="lazy" class="visible-xs" src="https://www.bbva.com/wp-content/uploads/2021/11/CINTILLO_TARGET_BREAKDOWN-MV.jpg" alt="" style="width: 100%;" />
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="detArtImg rs_skip">
+                        <div class="component_img_text_size">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+
+                                                    <figure>
+                                <picture>
+                                    <source media="(max-width: 768px)" srcset="https://www.bbva.com/wp-content/uploads/2022/10/tabla_sin_pie_de_foto_en-3-768x486.jpg">
+                                    <source media="(max-width: 1024px)" srcset="https://www.bbva.com/wp-content/uploads/2022/10/tabla_sin_pie_de_foto_en-3-1024x648.jpg">
+                                    <source media="(max-width: 1920px)" srcset="https://www.bbva.com/wp-content/uploads/2022/10/tabla_sin_pie_de_foto_en-3-1536x971.jpg">
+                                    <source media="(min-width: 1921px)" srcset="https://www.bbva.com/wp-content/uploads/2022/10/tabla_sin_pie_de_foto_en-3.jpg">
+                                    <img width="1536" height="971" loading="lazy" src="https://www.bbva.com/wp-content/uploads/2022/10/tabla_sin_pie_de_foto_en-3-150x150.jpg" alt="" title="" />
+                                </picture>
+                            </figure>
+                        
+                                            </div>
+                </div>
+            </div>
+        </div>
+
+    
+</div>    <div class="detContText">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
+                    <h6>(1) The percentages are the Compound Annual Growth Rate between the baseline year and 2030.</h6>
+<h6>(2) BBVA baseline year 2021 for oil and gas (O&amp;G).</h6>
+<h6>(3) Absolute emissions from oil and gas were calculated using the PCAF methodology for the calculation of the attribution factor. The main source of emission data was the database provided by Asset Resolution, which has information on production and emissions by asset for the companies included in the analysis. For those clients for which information was not available, an emission estimate was calculated, using an attribution factor per euro financed.</h6>
+<h6>(4) In the original 2021 publication, the initial figure for the steel sector was calculated using data provided by Asset Resolution. It did not include scope 2 emissions for some clients, which could be relevant in this sector. The new calculation incorporates these emissions for all clients - both for the starting point and in the estimation of the targets, maintaining the reduction percentage that was set in 2021.</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+                                <div class="detContTags rs_skip">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-offset-2 col-md-10 col-sm-12 col-xs-12">
+                <section class="component_tags">
+                    <div class="row">
+                        <article class="col-md-12 col-sm-12 col-xs-12">
+                                                            <p class="tagsHeader">Keep reading about</p>
+                                                        <ul class="tagsLinks">
+                                                                    <li><a href="https://www.bbva.com/en/sustainability/commitment/bbva-sustainability-projects/">BBVA Sustainability Projects</a></li>
+                                                                    <li><a href="https://www.bbva.com/en/sustainability/commitment/">Commitment</a></li>
+                                                                    <li><a href="https://www.bbva.com/en/sustainability/">Sustainability</a></li>
+                                                            </ul>
+                        </article>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>                
+<div data-async-recommend="EN590923" data-current-url="https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/" data-slots="2" style="display: none;">
+</div>
+<div data-load-more-content="938260" data-load-more-content-api="https://www.bbva.com/api/" data-new-id="EN590923" data-current-url="https://www.bbva.com/en/sustainability/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope/"></div>                            </div>
+        </article>
+
+        <!-- CONTENT_ARTICLE_END -->
+
+    </div>
+
+    <!--CABECERA ENCADENADA SIGUIENTE -->
+    
+<div class="loading-article rs_skip" style="display: none">
+    <!-- CONTENT_START -->
+    <!-- CONTENT_END -->
+</div>    <!-- Modal -->
+<div class="modal fade modalPodcast jsModalAudio rs_skip" tabindex="-1" role="dialog" id="modalPodcast">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-footer">
+                <div class="container">
+                    <div class="player">
+                        <i class="icon-commu_audio"></i>
+                        <span>Listening</span>
+                    </div>
+                    <div class="title jsAudioTitle">
+
+                    </div>
+                    <div class="audioPodcast jsAudioContainer">
+                    </div>
+                    <button type="button" class="close jsCollectTrigger" data-dismiss="modal" aria-label="Close"><i aria-hidden="true" class="icon-nav_close"></i></button>
+                </div>
+
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+    <!-- Modal -->
+<div class="modal fade modalVideo jsModalVideo rs_skip" tabindex="-1" role="dialog" id="modalVideo">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="container jsIframeContainer">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="container">
+                    <div class="player">
+                        <i class="icon-commu_play"></i>
+                        <span>Watching</span>
+                    </div>
+                    <div class="title">
+                        <span class="jsVideoTitle"></span>
+                    </div>
+                    <button type="button" class="close jsCollectTrigger" data-dismiss="modal" aria-label="Close"><i aria-hidden="true" class="icon-nav_close"></i></button>
+                </div>
+
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+        <div id="header-light-template" class="rs_skip rs_preserve" style="display: none;">
+        <div class="header-container container-fluid">
+            <div class="container">
+
+
+                <div class="row elements-container">
+
+                    <!--
+                        BBVA Icon.
+                        Visible on:
+                            - PC or > 2/12
+                    -->
+                    <div class="col-md-1 hidden-sm hidden-xs logo-container" data-content=".header-main .headerLogo_titular a" data-href="https://www.bbva.com/en" data-tag="a">
+                    </div>
+
+                    <!--
+                        Article Title.
+                        Visible on:
+                            - PC or > 11/12
+                            - Tablet or < 10/12
+                    -->
+                    <div class="col-md-9 col-sm-11 col-xs-10 article-title-container" data-content=".article-title" data-tag="div">
+                    </div>
+
+                    <!--
+                        Site actions
+                        Visible on:
+                            - PC or > 2/12
+                    -->
+                    <div class="col-md-2 hidden-sm hidden-xs header-actions-container">
+
+                        <div data-content="li.itemMenu_idioma" class="itemMenu_idioma-container" data-tag="div">
+                        </div>
+
+                        <div data-content="li.itemMenu_buscador" class="itemMenu_buscador-container" data-tag="div">
+                        </div>
+
+                        <div data-content=".headerNav_menuLateral" class="headerNav_menuLateral-container" data-tag="div">
+                        </div>
+
+                    </div>
+
+                    <!--
+                        Social share display action.
+                        Visible on:
+                            - Tablet or < 1/12
+                    -->
+                    <div class="col-sm-1 col-xs-2 visble-xs visble-sm hidden-md hidden-lg show-social-container">
+
+                        <a class="show-social" href="#">
+                            <i class="icon-commu_share"></i>
+                        </a>
+
+                    </div>
+
+                    <!--
+                        Social share buttons and close panel.
+                        Visible on:
+                            - Tablet or < 12/12
+
+                        By default, element is hidden.
+                    -->
+                    <div class="col-xs-12 visble-xs visble-sm hidden-md hidden-lg social-share-container" style="display: none;">
+
+                        <div class="row social-share-actions-container">
+
+                            <div class="col-sm-11 col-xs-10 share-icons-container compressed">
+                                <div class="component_share_block compressed">
+                                    <span class="share-message">Share</span>
+                                    <div class="post-share right-aside rs_skip share-this-widget">
+                                    </div>
+                                    <ul class="go-top-container">
+                                        <li class="go-top"><a href="#top"><span class="content_arrows"><i class="arrows"></i></span><span class="up">Up</span></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-1 col-xs-2 hide-social-container">
+
+                                <a class="hide-social" href="#">
+                                    <i class="icon-nav_close"></i>
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    
+<div class="row detArtSubscribe hidden rs_skip">
+    <div class="container option-1">
+        <div class="invisible-sm col-sm-6 col-md-offset-2 col-md-5">
+            <p class="text"></p>
+        </div>
+        <div class="col-xs-10 col-sm-5 col-md-4">
+            <a href="https://www.bbva.com/es/alta-newsletter/" class="redirection" target="_blank">Suscríbete a nuestra newsletter</a>
+        </div>
+        <button type="button" class="close" title="Cerrar"><i class="icon-nav_close"></i></button>
+    </div>
+</div></main>
+
+<footer id="footerMenuContent" class="footer-main rs_skip" data-menu-version="20230325152111">
+      <div class="preFooter-main">
+      <div class="footer-container container">
+          <div class="bloquesPreFooter"><div class="row tituloBloquesPreFooter"><p class="tituloNegrita">Clients Access</p></div><div class="row enlacesBloquesPreFooter"><div class="col_1 col-xs-6 col-sm-3"><p><a href="https://www.bbva.com.ar/">Argentina</a></p><p><a href="https://www.bbva.fr/">France</a></p><p><a href="http://www.bbva.pt">Portugal</a></p><p><a href="https://www.bbva.com.uy/">Uruguay</a></p></div><div class="col_2 col-xs-6 col-sm-3"><p><a href="https://www.bbva.be/">Belgium</a></p><p><a href="https://www.bancomer.com/">Mexico</a></p><p><a href="https://www.bbva.es/">Spain</a></p><p><a href="https://www.provincial.com/">Venezuela</a></p></div><div class="clearfix visible-xs"></div><div class="col_3 col-xs-6 col-sm-3"><p><a href="https://www.bbva.com.co/">Colombia</a></p><p><a href="https://www.bbva.com.py/">Paraguay</a></p><p><a href="https://www.bbva.ch/">Switzerland</a></p></div><div class="col_4 col-xs-6 col-sm-3"><p><a href="https://www.bbvacontinental.pe/">Peru</a></p><p><a href="https://www.bbvauk.com/">United Kingdom</a></p><p><a href="https://www.bbva.it/">Italia</a></p></div></div></div>
+      </div>
+  </div>
+  <div id="preFooterMovile-main" class="preFooterMovile-main" role="tablist" aria-multiselectable="true">
+      <div class="preFooterMovile-container"><h2 class="subtituloPreFooterMovile firstItem" id="button484335" role="tab"><a role="button" data-toggle="collapse" data-target="#484335" class="buttonPrefooterMovile"><span class="tituloNegrita">Clients Access</span><i id="flecha484335" class=" icon-nav_unfold" aria-hidden="true"></i></a></h2><div id="484335" class="collapse"><ul><li><a href="https://www.bbva.com.ar/">Argentina</a></li><li><a href="https://www.bbva.fr/">France</a></li><li><a href="http://www.bbva.pt">Portugal</a></li><li><a href="https://www.bbva.com.uy/">Uruguay</a></li><li><a href="https://www.bbva.be/">Belgium</a></li><li><a href="https://www.bancomer.com/">Mexico</a></li><li><a href="https://www.bbva.es/">Spain</a></li><li><a href="https://www.provincial.com/">Venezuela</a></li><li><a href="https://www.bbva.com.co/">Colombia</a></li><li><a href="https://www.bbva.com.py/">Paraguay</a></li><li><a href="https://www.bbva.ch/">Switzerland</a></li><li><a href="https://www.bbvacontinental.pe/">Peru</a></li><li><a href="https://www.bbvauk.com/">United Kingdom</a></li><li><a href="https://www.bbva.it/">Italia</a></li></ul></div></div>
+  </div>
+  <div class="bbvaFooter-main">
+      <div class="footer-container container">
+          <div id="bloqueLogo" class="col-md-9 col-xs-12">
+              <div class="row legal_marcaBBVA">
+                                        <a class="home-redirec" href="https://www.bbva.com/en"><img loading="lazy" height="56" width="211" src="https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/images/comun/bbva_footer_dkt_en.webp" alt="logo BBVA" class="imgLogoMarca"></a>
+                                </div>
+          </div>
+          <div id="bloqueSocial" class="col-md-3 col-xs-12">
+              <ul class="lista_enlacesFooterSocial">
+
+                  <li><a href="https://www.facebook.com/BBVAGroup/" target="_blank" aria-label="Facebook"><i class="icon-rrss_facebook"></i></a></li><li><a href="https://twitter.com/bbva" target="_blank" aria-label="Twitter"><svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink"
+                        width="24px"
+                        height="24px"
+                        viewBox="0 0 24 24"
+                        version="1.1"
+                        style=" width: 39px; height: 37px;"
+                        id="logo-twitter-svg">
+                        <g id="surface1">
+                            <path
+                                style=" stroke:none;fill-rule:nonzero;fill:#072146;fill-opacity:1;"
+                                d="M 7.398438 6.96875 L 14.925781 17.03125 L 16.628906 17.03125 L 9.105469 6.96875 Z M 7.398438 6.96875 "/>
+                            <path
+                                style=" stroke:none;fill-rule:nonzero;fill:#5bbeff;fill-opacity:1;"
+                                d="M 12 0 C 5.371094 0 0 5.371094 0 12 C 0 18.628906 5.371094 24 12 24 C 18.628906 24 24 18.628906 24 12 C 24 5.371094
+                                    18.628906 0 12 0 Z M 14.523438 17.835938 L 11.097656 13.253906 L 6.855469 17.835938 L 5.765625 17.835938 L 10.609375
+                                    12.601562 L 5.796875 6.164062 L 9.507812 6.164062 L 12.664062 10.382812 L 16.570312 6.164062 L 17.660156 6.164062 L
+                                    13.148438 11.035156 L 18.234375 17.835938 Z M 14.523438 17.835938 "/>
+                        </g>
+                    </svg></a></li><li><a href="https://www.linkedin.com/company/bbva" target="_blank" aria-label="Linkedin"><i class="icon-rrss_linkedin"></i></a></li><li><a href="https://www.youtube.com/user/bbva" target="_blank" aria-label="YouTube"><i class="icon-rrss_youtube"></i></a></li><li><a href="https://instagram.com/bbva/" target="_blank" aria-label="Instagram"><i class="icon-rrss_instagram"></i></a></li><li><a href="https://www.snapchat.com/add/bbvaworld/" target="_blank" aria-label="Snapchat"><i class="icon-rrss_snapchat"></i></a></li>
+              </ul>
+          </div>
+          <div id="bloqueLegal" class="col-md-12 col-xs-12">
+              <div class="row legal_enlacesBBVA">
+
+                  <ul id="menu-footer-menu" class="lista_enlacesFooterLegal"><li id="menu-item-483660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-483660"><a href="https://www.bbva.com/en/sitemap/">Sitemap</a></li>
+<li id="menu-item-495743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495743"><a href="https://www.bbva.com/en/cookies-policy/">Cookies</a></li>
+<li id="menu-item-495746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495746"><a href="https://www.bbva.com/en/personal-data-protection-policy/">Personal Data</a></li>
+<li id="menu-item-972724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-972724"><a href="https://www.bkms-system.com/bkwebanon/report/clientInfo?cin=h4uMFy&#038;c=-1&#038;language=eng">Whistleblower Channel</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-488314"><a href="https://www.bbva.com/en/contact/">Contact</a></li>
+<li id="menu-item-283046" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-283046"><a title="modal" href="https://www.bbva.com/en/legal-notice/">Legal notice</a></li>
+<li id="menu-item-283079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-283079"><a href="https://www.bbva.com/en/seguridad/">Security</a></li>
+<li id="menu-item-296236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-296236"><a href="https://www.bbva.com/en/rss/press-releases/">RSS</a></li>
+</ul>
+              </div>
+              <div class="row legal_copyBBVA">
+                  <p class="footerSello">© Banco Bilbao Vizcaya Argentaria, S.A. 2023</p>
+              </div>
+          </div>
+      </div>
+  </div></footer>
+</div>
+<link rel='stylesheet' id='highlight-and-share-css'  href='https://www.bbva.com/wp-content/plugins/highlight-and-share/dist/has-themes.css?ver=4.5.3' type='text/css' media='all' />
+<div id="has-highlight-and-share"><div class="highlight-and-share-wrapper theme-default orientation-horizontal show-has-labels">		<style>
+			.highlight-and-share-wrapper div.has-tooltip:hover:after {
+				background-color: #000000 !important;
+				color: #FFFFFF !important;
+			}
+		</style>
+		<div class="has_twitter has-tooltip" style="display: none;" data-type="twitter" data-tooltip=" "><a href="https://x.com/intent/tweet?via=%username%&url=%url%&text=%prefix%%text%%suffix%&hashtags=%hashtags%" target="_blank" rel="nofollow"><svg class="has-icon"><use xlink:href="#has-twitter-icon"></use></svg><span class="has-text">&nbsp;tweet</span></a></div><div class="has_whatsapp has-tooltip" style="display: none;" data-type="whatsapp" data-tooltip=" "><a href="https://api.whatsapp.com/send?text=%prefix%%text%%suffix%: %url%" target="_blank" rel="nofollow"><svg class="has-icon"><use xlink:href="#has-whatsapp-icon"></use></svg><span class="has-text">&nbsp; </span></a></div><div class="has_linkedin has-tooltip" style="display: none;" data-type="linkedin" data-tooltip=" "><a href="https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%" target="_blank" rel="nofollow"><svg class="has-icon"><use xlink:href="#has-linkedin-icon"></use></svg><span class="has-text">&nbsp; </span></a></div></div><!-- #highlight-and-share-wrapper --></div><!-- #has-highlight-and-share -->		<svg width="0" height="0" class="hidden" style="display: none;">
+			<symbol aria-hidden="true" data-prefix="fas" data-icon="twitter" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="has-twitter-icon">
+				<g><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></g>
+			</symbol>
+			<symbol aria-hidden="true" data-prefix="fas" data-icon="facebook" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" id="has-facebook-icon">
+				<path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path>
+			</symbol>
+			<symbol aria-hidden="true" data-prefix="fas" data-icon="at" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="has-email-icon">
+				<path fill="currentColor" d="M256 8C118.941 8 8 118.919 8 256c0 137.059 110.919 248 248 248 48.154 0 95.342-14.14 135.408-40.223 12.005-7.815 14.625-24.288 5.552-35.372l-10.177-12.433c-7.671-9.371-21.179-11.667-31.373-5.129C325.92 429.757 291.314 440 256 440c-101.458 0-184-82.542-184-184S154.542 72 256 72c100.139 0 184 57.619 184 160 0 38.786-21.093 79.742-58.17 83.693-17.349-.454-16.91-12.857-13.476-30.024l23.433-121.11C394.653 149.75 383.308 136 368.225 136h-44.981a13.518 13.518 0 0 0-13.432 11.993l-.01.092c-14.697-17.901-40.448-21.775-59.971-21.775-74.58 0-137.831 62.234-137.831 151.46 0 65.303 36.785 105.87 96 105.87 26.984 0 57.369-15.637 74.991-38.333 9.522 34.104 40.613 34.103 70.71 34.103C462.609 379.41 504 307.798 504 232 504 95.653 394.023 8 256 8zm-21.68 304.43c-22.249 0-36.07-15.623-36.07-40.771 0-44.993 30.779-72.729 58.63-72.729 22.292 0 35.601 15.241 35.601 40.77 0 45.061-33.875 72.73-58.161 72.73z"></path>
+			</symbol>
+			<symbol aria-hidden="true" data-prefix="fas" data-icon="linkedin" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" id="has-linkedin-icon">
+				<path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path>
+			</symbol>
+			<symbol aria-hidden="true" data-prefix="fas" data-icon="xing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" id="has-xing-icon">
+				<path fill="currentColor" d="M162.7 210c-1.8 3.3-25.2 44.4-70.1 123.5-4.9 8.3-10.8 12.5-17.7 12.5H9.8c-7.7 0-12.1-7.5-8.5-14.4l69-121.3c.2 0 .2-.1 0-.3l-43.9-75.6c-4.3-7.8.3-14.1 8.5-14.1H100c7.3 0 13.3 4.1 18 12.2l44.7 77.5zM382.6 46.1l-144 253v.3L330.2 466c3.9 7.1.2 14.1-8.5 14.1h-65.2c-7.6 0-13.6-4-18-12.2l-92.4-168.5c3.3-5.8 51.5-90.8 144.8-255.2 4.6-8.1 10.4-12.2 17.5-12.2h65.7c8 0 12.3 6.7 8.5 14.1z"></path>
+			</symbol>
+			<symbol aria-hidden="true" data-prefix="fas" data-icon="whatsapp" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" id="has-whatsapp-icon">
+				<path fill="currentColor" d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path>
+			</symbol>
+			<symbol aria-hidden="true" data-prefix="fas" data-icon="copy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" id="has-copy-icon">
+				<path fill="currentColor" d="M320 448v40c0 13.255-10.745 24-24 24H24c-13.255 0-24-10.745-24-24V120c0-13.255 10.745-24 24-24h72v296c0 30.879 25.121 56 56 56h168zm0-344V0H152c-13.255 0-24 10.745-24 24v368c0 13.255 10.745 24 24 24h272c13.255 0 24-10.745 24-24V128H344c-13.2 0-24-10.8-24-24zm120.971-31.029L375.029 7.029A24 24 0 0 0 358.059 0H352v96h96v-6.059a24 24 0 0 0-7.029-16.97z"></path>
+			</symbol>
+			<symbol aria-hidden="true" data-prefix="fas" data-icon="share" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" id="has-share-icon">
+				<path fill="currentColor" d="M352 320c-22.608 0-43.387 7.819-59.79 20.895l-102.486-64.054a96.551 96.551 0 0 0 0-41.683l102.486-64.054C308.613 184.181 329.392 192 352 192c53.019 0 96-42.981 96-96S405.019 0 352 0s-96 42.981-96 96c0 7.158.79 14.13 2.276 20.841L155.79 180.895C139.387 167.819 118.608 160 96 160c-53.019 0-96 42.981-96 96s42.981 96 96 96c22.608 0 43.387-7.819 59.79-20.895l102.486 64.054A96.301 96.301 0 0 0 256 416c0 53.019 42.981 96 96 96s96-42.981 96-96-42.981-96-96-96z"></path>
+			</symbol>
+			<symbol aria-hidden="true" data-prefix="fab" data-icon="reddit" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="has-reddit-icon">
+				<path fill="currentColor" d="M440.3 203.5c-15 0-28.2 6.2-37.9 15.9-35.7-24.7-83.8-40.6-137.1-42.3L293 52.3l88.2 19.8c0 21.6 17.6 39.2 39.2 39.2 22 0 39.7-18.1 39.7-39.7s-17.6-39.7-39.7-39.7c-15.4 0-28.7 9.3-35.3 22l-97.4-21.6c-4.9-1.3-9.7 2.2-11 7.1L246.3 177c-52.9 2.2-100.5 18.1-136.3 42.8-9.7-10.1-23.4-16.3-38.4-16.3-55.6 0-73.8 74.6-22.9 100.1-1.8 7.9-2.6 16.3-2.6 24.7 0 83.8 94.4 151.7 210.3 151.7 116.4 0 210.8-67.9 210.8-151.7 0-8.4-.9-17.2-3.1-25.1 49.9-25.6 31.5-99.7-23.8-99.7zM129.4 308.9c0-22 17.6-39.7 39.7-39.7 21.6 0 39.2 17.6 39.2 39.7 0 21.6-17.6 39.2-39.2 39.2-22 .1-39.7-17.6-39.7-39.2zm214.3 93.5c-36.4 36.4-139.1 36.4-175.5 0-4-3.5-4-9.7 0-13.7 3.5-3.5 9.7-3.5 13.2 0 27.8 28.5 120 29 149 0 3.5-3.5 9.7-3.5 13.2 0 4.1 4 4.1 10.2.1 13.7zm-.8-54.2c-21.6 0-39.2-17.6-39.2-39.2 0-22 17.6-39.7 39.2-39.7 22 0 39.7 17.6 39.7 39.7-.1 21.5-17.7 39.2-39.7 39.2z"></path>
+			</symbol>
+			<symbol aria-hidden="true" data-prefix="fab" data-icon="telegram" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" id="has-telegram-icon">
+				<path fill="currentColor" d="M446.7 98.6l-67.6 318.8c-5.1 22.5-18.4 28.1-37.3 17.5l-103-75.9-49.7 47.8c-5.5 5.5-10.1 10.1-20.7 10.1l7.4-104.9 190.9-172.5c8.3-7.4-1.8-11.5-12.9-4.1L117.8 284 16.2 252.2c-22.1-6.9-22.5-22.1 4.6-32.7L418.2 66.4c18.4-6.9 34.5 4.1 28.5 32.2z"></path>
+			</symbol>
+			<symbol aria-hidden="true" data-prefix="fab" data-icon="signal" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" id="has-signal-icon">
+				<g>
+					<path d="M97.2800192,3.739673 L100.160021,15.3787704 C88.8306631,18.1647705 77.9879854,22.6484879 68.0000023,28.6777391 L61.8399988,18.3985363 C72.8467373,11.7537029 84.7951803,6.81153332 97.2800192,3.739673 Z M158.720055,3.739673 L155.840053,15.3787704 C167.169411,18.1647705 178.012089,22.6484879 188.000072,28.6777391 L194.200075,18.3985363 C183.180932,11.7499974 171.218739,6.80771878 158.720055,3.739673 L158.720055,3.739673 Z M18.3999736,61.8351679 C11.7546212,72.8410466 6.81206547,84.7885562 3.73996516,97.2724198 L15.3799719,100.152197 C18.1661896,88.8237238 22.6502573,77.981893 28.6799796,67.9946902 L18.3999736,61.8351679 Z M11.9999699,127.990038 C11.9961044,122.172725 12.4306685,116.363392 13.2999707,110.611385 L1.43996383,108.811525 C-0.479938607,121.525138 -0.479938607,134.454937 1.43996383,147.168551 L13.2999707,145.36869 C12.4306685,139.616684 11.9961044,133.807351 11.9999699,127.990038 L11.9999699,127.990038 Z M194.160075,237.581539 L188.000072,227.302336 C178.024494,233.327885 167.195565,237.811494 155.880053,240.601305 L158.760055,252.240403 C171.231048,249.164732 183.165742,244.222671 194.160075,237.581539 L194.160075,237.581539 Z M244.000104,127.990038 C244.00397,133.807351 243.569406,139.616684 242.700103,145.36869 L254.56011,147.168551 C256.480013,134.454937 256.480013,121.525138 254.56011,108.811525 L242.700103,110.611385 C243.569406,116.363392 244.00397,122.172725 244.000104,127.990038 Z M252.260109,158.707656 L240.620102,155.827879 C237.833884,167.156352 233.349817,177.998183 227.320094,187.985385 L237.6001,194.184905 C244.249159,183.166622 249.191823,171.205364 252.260109,158.707656 L252.260109,158.707656 Z M145.380047,242.701142 C133.858209,244.43447 122.141865,244.43447 110.620027,242.701142 L108.820026,254.560223 C121.534632,256.479975 134.465442,256.479975 147.180048,254.560223 L145.380047,242.701142 Z M221.380091,196.804701 C214.461479,206.174141 206.175877,214.452354 196.800077,221.362797 L203.920081,231.022048 C214.262958,223.418011 223.404944,214.303705 231.040097,203.984145 L221.380091,196.804701 Z M196.800077,34.6172785 C206.177345,41.5338058 214.463023,49.8188367 221.380091,59.1953726 L231.040097,51.9959309 C223.429284,41.6822474 214.31457,32.5682452 204.000081,24.9580276 L196.800077,34.6172785 Z M34.619983,59.1953726 C41.5370506,49.8188367 49.8227288,41.5338058 59.1999972,34.6172785 L51.9999931,24.9580276 C41.6855038,32.5682452 32.5707896,41.6822474 24.9599774,51.9959309 L34.619983,59.1953726 Z M237.6001,61.8351679 L227.320094,67.9946902 C233.346114,77.969489 237.830073,88.7975718 240.620102,100.1122 L252.260109,97.2324229 C249.184198,84.7624043 244.241751,72.8286423 237.6001,61.8351679 L237.6001,61.8351679 Z M110.620027,13.2989317 C122.141865,11.5656035 133.858209,11.5656035 145.380047,13.2989317 L147.180048,1.43985134 C134.465442,-0.479901112 121.534632,-0.479901112 108.820026,1.43985134 L110.620027,13.2989317 Z M40.7799866,234.201801 L15.9999722,239.981353 L21.7799756,215.203275 L10.0999688,212.463487 L4.3199655,237.241566 C3.3734444,241.28318 4.58320332,245.526897 7.51859925,248.462064 C10.4539952,251.39723 14.6980441,252.606895 18.7399738,251.660448 L43.4999881,245.980888 L40.7799866,234.201801 Z M12.5999703,201.764317 L24.279977,204.484106 L28.2799793,187.305438 C22.4496684,177.507146 18.1025197,166.899584 15.3799719,155.827879 L3.73996516,158.707656 C6.34937618,169.311891 10.3154147,179.535405 15.539972,189.125297 L12.5999703,201.764317 Z M68.6000027,227.762301 L51.4199927,231.761991 L54.1399943,243.441085 L66.7800016,240.501313 C76.3706428,245.725462 86.5949557,249.691191 97.2000192,252.300398 L100.080021,240.6613 C89.0307035,237.906432 78.4495684,233.532789 68.6800027,227.682307 L68.6000027,227.762301 Z M128.000037,23.9980665 C90.1565244,24.0177003 55.3105242,44.590631 37.01511,77.715217 C18.7196958,110.839803 19.8628631,151.287212 39.9999861,183.325747 L29.9999803,225.982439 L72.660005,215.983214 C110.077932,239.548522 158.307237,236.876754 192.892851,209.322653 C227.478464,181.768552 240.856271,135.358391 226.242944,93.6248278 C211.629616,51.8912646 172.221191,23.9617202 128.000037,23.9980665 Z" fill="currentColor"></path>
+				</g>
+			</symbol>
+			<symbol aria-hidden="true" data-prefix="ok" data-icon="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="has-ok-icon">
+				<g>
+					<path fill="currentColor" d="M357.1,324.5c-24.1,15.3-57.2,21.4-79.1,23.6l18.4,18.1l67,67c24.5,25.1-15.4,64.4-40.2,40.2c-16.8-17-41.4-41.6-67-67.3
+						l-67,67.2c-24.8,24.2-64.7-15.5-39.9-40.2c17-17,41.4-41.6,67-67l18.1-18.1c-21.6-2.3-55.3-8-79.6-23.6
+						c-28.6-18.5-41.2-29.3-30.1-51.8c6.5-12.8,24.3-23.6,48-5c0,0,31.9,25.4,83.4,25.4s83.4-25.4,83.4-25.4c23.6-18.5,41.4-7.8,48,5
+						C398.3,295.1,385.7,305.9,357.1,324.5L357.1,324.5z M142,145c0-63,51.2-114,114-114s114,51,114,114c0,62.7-51.2,113.7-114,113.7
+						S142,207.7,142,145L142,145z M200,145c0,30.8,25.1,56,56,56s56-25.1,56-56c0-31.1-25.1-56.2-56-56.2S200,113.9,200,145z"/>
+				</g>
+			</symbol>
+			<symbol aria-hidden="true" data-prefix="vk" data-icon="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" id="has-vk-icon">
+				<g
+					style="fill:none;fill-rule:evenodd"
+					transform="translate(0,664)"
+				>
+					<path fill="currentColor" d="m 1073.3513,-606.40537 h 196.278 c 179.2103,0 221.8795,42.66915 221.8795,221.8795 v 196.27799 c 0,179.2103512 -42.6692,221.879451 -221.8795,221.879451 h -196.278 c -179.21038,0 -221.87951,-42.6691298 -221.87951,-221.879451 v -196.27801 c 0,-179.21035 42.66913,-221.87946 221.87951,-221.87948 z" />
+					<path fill="currentColor" d="m 1375.0576,-393.98425 c 2.9513,-9.7072 0,-16.85429 -14.1342,-16.85429 h -46.6693 c -11.8763,0 -17.3521,6.16927 -20.3212,12.97854 0,0 -23.7347,56.82106 -57.3544,93.74763 -10.8806,10.66728 -15.8232,14.08081 -21.7613,14.08081 -2.969,0 -7.2715,-3.39577 -7.2715,-13.12075 v -90.83194 c 0,-11.66288 -3.4491,-16.85429 -13.3341,-16.85429 h -73.3553 c -7.4138,0 -11.8763,5.40476 -11.8763,10.54286 0,11.0406 16.8188,13.60078 18.5433,44.67814 v 67.52388 c 0,14.80973 -2.7202,17.49433 -8.6583,17.49433 -15.8231,0 -54.3143,-57.08773 -77.16,-122.40705 -4.4447,-12.71185 -8.9427,-17.83214 -20.8723,-17.83214 h -46.68718 c -13.3341,0 -16.0009,6.16925 -16.0009,12.97852 0,12.12515 15.8232,72.35973 73.69318,152.02656 38.58,54.40315 92.8942,83.89819 142.3726,83.89819 29.6729,0 33.3353,-6.54262 33.3353,-17.83216 v -41.12238 c 0,-13.10297 2.809,-15.71646 12.214,-15.71646 6.9338,0 18.7922,3.41353 46.4916,29.63728 31.6463,31.09512 36.8555,45.03372 54.6698,45.03372 h 46.6694 c 13.3341,0 20.0189,-6.54262 16.1787,-19.46781 -4.2313,-12.88962 -19.3433,-31.57515 -39.38,-53.74532 -10.8807,-12.62294 -27.2016,-26.22375 -32.1441,-33.03302 -6.9338,-8.72941 -4.9603,-12.62294 0,-20.39227 0,0 56.8566,-78.68897 62.7947,-105.41058 z" />
+					<path fill="currentColor" d="m 567.69877,-429.06912 c 3.15618,-10.38133 0,-18.0247 -15.11579,-18.0247 h -49.91013 c -12.70096,0 -18.55706,6.59763 -21.73232,13.87977 0,0 -25.38286,60.76685 -61.33724,100.25768 -11.63627,11.40806 -16.92197,15.05863 -23.27242,15.05863 -3.17519,0 -7.77644,-3.63156 -7.77644,-14.0319 v -97.13948 c 0,-12.47278 -3.68869,-18.0247 -14.26014,-18.0247 h -78.44923 c -7.92857,0 -12.70097,5.78005 -12.70097,11.27491 0,11.80736 17.98666,14.54527 19.83094,47.78071 v 72.21293 c 0,15.83815 -2.9091,18.70918 -9.25948,18.70918 -16.92197,0 -58.08598,-61.05206 -82.51817,-130.90731 -4.75337,-13.59458 -9.56381,-19.07042 -22.32175,-19.07042 h -49.92915 c -14.26014,0 -17.11213,6.59763 -17.11213,13.87977 0,12.96714 16.92197,77.38454 78.81059,162.58363 41.25909,58.18101 99.34506,89.72424 152.25931,89.72424 31.73343,0 35.65018,-6.99691 35.65018,-19.07043 v -43.978 c 0,-14.01288 3.00405,-16.80786 13.0622,-16.80786 7.41521,0 20.09716,3.65057 49.71998,31.69536 33.84387,33.25443 39.41486,48.16093 58.46622,48.16093 h 49.91026 c 14.26,0 21.40913,-6.99691 17.30216,-20.81966 -4.5252,-13.78473 -20.68653,-33.76783 -42.11468,-57.47752 -11.63621,-13.49953 -29.09043,-28.04479 -34.37631,-35.32694 -7.41508,-9.33557 -5.30458,-13.4995 0,-21.80835 0,0 60.80491,-84.15334 67.15549,-112.73048 z" />
+				</g>
+			</symbol>
+			<symbol aria-hidden="true" data-prefix="fab" data-icon="tumblr" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" id="has-tumblr"><path fill="currentColor" d="M309.8 480.3c-13.6 14.5-50 31.7-97.4 31.7-120.8 0-147-88.8-147-140.6v-144H17.9c-5.5 0-10-4.5-10-10v-68c0-7.2 4.5-13.6 11.3-16 62-21.8 81.5-76 84.3-117.1.8-11 6.5-16.3 16.1-16.3h70.9c5.5 0 10 4.5 10 10v115.2h83c5.5 0 10 4.4 10 9.9v81.7c0 5.5-4.5 10-10 10h-83.4V360c0 34.2 23.7 53.6 68 35.8 4.8-1.9 9-3.2 12.7-2.2 3.5.9 5.8 3.4 7.4 7.9l22 64.3c1.8 5 3.3 10.6-.4 14.5z"></path></symbol>
+			<symbol aria-hidden="true" data-prefix="fab" data-icon="share" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="has-webshare-icon"><path fill="currentColor" d="M512 208L320 384H288V288H208c-61.9 0-112 50.1-112 112c0 48 32 80 32 80s-128-48-128-176c0-97.2 78.8-176 176-176H288V32h32L512 208z"/></symbol>
+			<symbol aria-hidden="true" data-prefix="fab" data-icon="x" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" id="has-x"><path fill="currentColor" d="M309.8 480.3c-13.6 14.5-50 31.7-97.4 31.7-120.8 0-147-88.8-147-140.6v-144H17.9c-5.5 0-10-4.5-10-10v-68c0-7.2 4.5-13.6 11.3-16 62-21.8 81.5-76 84.3-117.1.8-11 6.5-16.3 16.1-16.3h70.9c5.5 0 10 4.5 10 10v115.2h83c5.5 0 10 4.4 10 9.9v81.7c0 5.5-4.5 10-10 10h-83.4V360c0 34.2 23.7 53.6 68 35.8 4.8-1.9 9-3.2 12.7-2.2 3.5.9 5.8 3.4 7.4 7.9l22 64.3c1.8 5 3.3 10.6-.4 14.5z"></path></symbol>
+		</svg>
+		<link rel='stylesheet' id='jquery-ui-base-css'  href='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/css/jquery-ui_base.min.css?ver=5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-lightness-css'  href='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/css/jquery-ui_lightness.min.css?ver=5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='ReadSpeakerSkin-css'  href='https://www.bbva.com/wp-content/themes/coronita-bbvacom/vendor/readspeaker/skins/ReadSpeakerSkin/ReadSpeakerSkin.css?ver=5.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/jquery.ba-throttle-debounce.min.js?ver=11.3.0' id='jquery_throttle-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/module.min.js?ver=11.3.0' id='module_js-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/modules/010-concatenated-news.min.js?ver=11.3.0' id='concatenated-news_js-js'></script>
+<script type='text/javascript' id='data_sticker_js-js-extra'>
+/* <![CDATA[ */
+var ver = "11.3.0";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/modules/020-data-sticker.min.js?ver=11.3.0' id='data_sticker_js-js'></script>
+<script type='text/javascript' id='module-newsletter-js-extra'>
+/* <![CDATA[ */
+var data = {"postTitle":"BBVA's decarbonization targets: What do they mean and what is their scope?","urlDownload":"https:\/\/www.bbva.com\/en\/sustainability\/bbvas-decarbonization-targets-what-do-they-mean-and-what-is-their-scope\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/modules/newsletter_modules.js?ver=11.3.0' id='module-newsletter-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/modules/newsletter_banner.min.js?ver=11.3.0' id='newsletter-banner-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/modules/jquery.highlight.min.js?ver=11.3.0' id='jquery_highlight-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/modules/search.min.js?ver=11.3.0' id='search_js-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/jquery-ui.min.js?ver=1.13.2' id='jquery-ui-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/bootstrap.min.js?ver=3.4.1' id='bootstrap-js'></script>
+<script type='text/javascript' id='functions-track-builder-js-extra'>
+/* <![CDATA[ */
+var dataTrackPosts = {"postId":"872235","postType":"sustainability","postCategory":"","cb_version":"11.3.0","extension_js":"min.js"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/functions-track-builder.min.js?ver=11.3.0' id='functions-track-builder-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/vendor/webReader/webReader.js?pids=wr&#038;notools=1&#038;ver=11.3.0' id='webReader-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/vendor/readspeaker/skins/ReadSpeakerSkin/ReadSpeakerSkin.js?ver=11.3.0' id='readSpeaker-skin-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://www.bbva.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.bbva.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://www.bbva.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://www.bbva.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.bbva.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.bbva.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://www.bbva.com/wp-includes/js/dist/i18n.min.js?ver=bb7c3c45d012206bfcd73d6a31f84d9e' id='wp-i18n-js'></script>
+<script type='text/javascript' id='highlight-and-share-js-extra'>
+/* <![CDATA[ */
+var highlight_and_share = {"show_facebook":"","show_twitter":"1","show_linkedin":"1","show_ok":"","show_vk":"","show_email":"","show_xing":"","show_copy":"","show_whatsapp":"1","show_telegram":"","twitter_username":"BBVA","enable_webshare_inline_highlight":"","enable_webshare_click_to_share":"","content_legacy_mode":"","mobile":"","content":".detContContent,.has-content-area,.has-excerpt-area","tweet_text":"tweet","facebook_text":"Share","linkedin_text":"LinkedIn","ok_text":"Odnoklassniki","vk_text":"VKontakte","whatsapp_text":"WhatsApp","xing_text":"Xing","copy_text":"Copy","email_text":"E-mail","webshare_text":"Share","prefix":"","suffix":"","inline_highlight_tooltips_enabled":"","inline_highlight_tooltips_text":""};
+/* ]]> */
+</script>
+<script type='text/javascript' id='highlight-and-share-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "highlight-and-share", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/plugins/highlight-and-share/dist/highlight-and-share.js?ver=4.5.3' id='highlight-and-share-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-includes/js/wp-embed.min.js?ver=5.5' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/advertising-load.min.js?ver=11.3.0' id='advertising-js-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/controller/detail_init.min.js?ver=11.3.0' id='detail-init-js-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/footer_news.min.js?ver=11.3.0' id='footer-news-js-js'></script>
+<script type='text/javascript' src='https://www.bbva.com/wp-content/themes/coronita-bbvacom/assets/js/controller/detail.min.js?ver=11.3.0' id='detail-js-js'></script>
+<script src="https://d3l7jhiu2gy1zw.cloudfront.net/lib/bbva-component/core.js" data-bbva-project="j6yx1hfp" data-bbva-api="www.bbva.com"></script></body>
+
+</html>
