@@ -84,8 +84,8 @@
             },
             {
                 "url": "https://www.bayernlb.com/internet/media/en/ir/downloads_1/verantwortung_1/positionen_und_richtlinien/2021-12-16_final_Leitplanken_der_Transformation.pdf",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://www.bayernlb.de/internet/media/de/ir/downloads_1/presse_5/presseinformationen/2021_12/12_dezember/20211217_PI_Leitplanken.pdf",
+                "downloaded": true
             }
         ]
     },
@@ -119,8 +119,8 @@
         "output": [
             {
                 "url": "https://cdn-group.bnpparibas.com/uploads/file/bnpparibas_csr_sector_policy_oil_gas.pdf",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://cdn-group.bnpparibas.com/uploads/file/bnpparibas_csr_sector_policy_oil_gas.pdf",
+                "downloaded": true
             }
         ]
     },
@@ -433,8 +433,8 @@
         "output": [
             {
                 "url": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/sostenibilt%C3%A0/inglese/policy/Summary%20Rules%20for%20unconventional%20oilgas_eng_july%202021.pdf",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/sostenibilt%C3%A0/inglese/policy/Summary%20Rules%20for%20the%20Coal%20sector_july%202021.pdf",
+                "downloaded": true
             },
             {
                 "url": "https://group.intesasanpaolo.com/en/newsroom/news/all-news/2021/new-coal-and-oil-gas-policies-",
@@ -676,8 +676,8 @@
         "output": [
             {
                 "url": "https://www.qnb.com/sites/qnb/qnbqatar/document/en/enESRM",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://www.qnb.com/sites/qnb/qnbqatar/document/en/enESRM",
+                "downloaded": true
             }
         ]
     },
@@ -686,8 +686,8 @@
         "output": [
             {
                 "url": "https://www.rabobank.com/en/images/sustainability-policy-framework.pdf",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://media.rabobank.com/m/25fe53b9b9ea80d9/original/Sustainable-Policy-Framework.pdf",
+                "downloaded": true
             }
         ]
     },
@@ -896,8 +896,8 @@
         "output": [
             {
                 "url": "https://www.uobgroup.com/sustainability/pdf/UOB-report-forging-our-net-zero-future.pdf",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://www.uobgroup.com/assets/web-resources/sustainability/pdf/forging-our-net-zero-future.pdf",
+                "downloaded": true
             }
         ]
     },
