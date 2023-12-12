@@ -15,7 +15,7 @@ def download_url(url, output_folder, bank_name, output_dict):
         headers = {
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0"
         }
-        response = requests.get(headers=headers, url=url, timeout=60)
+        response = requests.get(headers=headers, url=url, timeout=60, allow_redirects=True)
         response.raise_for_status()
 
         # Assuming the URL points to a file, extract filename
@@ -45,13 +45,18 @@ def download_url(url, output_folder, bank_name, output_dict):
     return output_dict
 
 
-def download_coalpolicytracker():
+def download_policytracker(tracker="coal"):
     spreadsheet_path = "coalpolicytracker.xlsx"  # or .csv
-    output_folder = "downloaded_content"
+    output_folder = "coal_downloaded_content"
+
+    if tracker.lower() == "oilgas":
+        spreadsheet_path = "OilGasPolicyTracker.xlsx"
+        output_folder = "oilgas_downloaded_content"
+
     df = pd.read_excel(spreadsheet_path)  # Read the spreadsheet
     output_dict = {}
 
-    with open("./downloaded_content/tags.json") as f:
+    with open("./tags.json") as f:
         tags_dict = json.load(f)
 
     # Ensure the output folder exists
@@ -66,7 +71,7 @@ def download_coalpolicytracker():
         bank_name = row.iloc[2]  # 3rd column for the folder name
 
         output_dict[bank_name] = {}
-        output_dict[bank_name]["tag"] = tags_dict[bank_name]
+        output_dict[bank_name]["tag"] = tags_dict.get(bank_name, None)
         output_dict[bank_name]["output"] = []
 
         # Create a folder for each unique name in the 3rd column
@@ -77,10 +82,11 @@ def download_coalpolicytracker():
         for url in urls:
             output_dict = download_url(url, output_folder, bank_name, output_dict)
 
-        with open("downloaded_content/_urls.json", "w") as f:
+        with open(f"{output_folder}/_urls.json", "w") as f:
             json.dump(output_dict, f, indent=4)
 
     print("Download completed.")
 
 
-download_coalpolicytracker()
+# download_policytracker(tracker="coal")
+download_policytracker(tracker="oilgas")
