@@ -37,18 +37,18 @@
         "output": [
             {
                 "url": "https://www.anz.com.au/content/dam/anzcom/shareholder/ANZ-2021-climate-change-commitment.pdf",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://www.anz.com.au/content/dam/anzcomau/about-us/anz-climate-change-commitment-nov-2023.pdf",
+                "downloaded": true
             },
             {
                 "url": "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/aboutus/esg/responsible-business-lending/extractive-industries-policy.pdf",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://www.anz.com/resources/3/c/3cca19804914501f98b2dbfc8cff90cd/extractive-industries-policy.pdf?MOD=AJPERES",
+                "downloaded": true
             },
             {
                 "url": "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/aboutus/esg/responsible-business-lending/energy-policy.pdf",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://www.anz.com/resources/6/5/65d8a48049144f6298a2dbfc8cff90cd/energy-policy.pdf?MOD=AJPERES",
+                "downloaded": true
             }
         ]
     },
@@ -187,13 +187,13 @@
         "output": [
             {
                 "url": "https://group.bnpparibas/uploads/file/csr_sector_policy_mining.pdf",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://cdn-group.bnpparibas.com/uploads/file/bnpparibas_csr_sector_policy_mining.pdf",
+                "downloaded": true
             },
             {
                 "url": "https://group.bnpparibas/en/press-release/bnp-paribas-accelerating-timeframe-complete-coal-exit",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://group.bnpparibas/en/press-release/bnp-paribas-accelerating-timeframe-complete-coal-exit",
+                "downloaded": true
             }
         ]
     },
@@ -609,8 +609,8 @@
         "output": [
             {
                 "url": "https://www.ing.nl/media/ING-Environmental-and-Social-Risk-Framework_tcm162-175186.pdf",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://www.ing.com/MediaEditPage/INGs-Environmental-and-Social-Risk-ESR-policy-framework.htm",
+                "downloaded": true
             },
             {
                 "url": "https://www.ing.com/web/file?uuid=7b964e2e-59e8-4371-9964-8923f5121d5c&owner=b03bc017-e0db-4b5d-abbf-003b12934429&contentid=51533",
@@ -748,8 +748,8 @@
             },
             {
                 "url": "https://www.maybank.com/en/news-support/newsroom-detailpage.page?detailId=162029079508608",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://www.maybank.com/corporate_new/my/en/news-support/newsroom-detailpage.page?detailId=162029079508608",
+                "downloaded": true
             }
         ]
     },
@@ -1005,7 +1005,7 @@
         "output": [
             {
                 "url": "https://www.rabobank.com/en/images/sustainability-policy-framework.pdf",
-                "actual_url": null,
+                "actual_url": "https://media.rabobank.com/m/25fe53b9b9ea80d9/original/Sustainable-Policy-Framework.pdf",
                 "downloaded": false
             }
         ]
@@ -1020,8 +1020,8 @@
             },
             {
                 "url": "https://www.raiffeisen.al/en/our-news/entry/rbi-focus-on-renewable-energy-phase-out-of-thermal-coal",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://www.rbinternational.com/en/who-we-are/governance-and-compliance/renewable-energy-coal-exit/_jcr_content/root/responsivegrid/contentcontainer_cop/contentbox/downloadlist.download.html/0/Focus%20on%20renewable%20energy_%20phase-out%20of%20thermal%20coal.pdf",
+                "downloaded": true
             }
         ]
     },
@@ -1302,13 +1302,13 @@
             },
             {
                 "url": "https://www.uobgroup.com/web-resources/uobgroup/pdf/sustainability/metals-and-mining-uob-responsible-financing-sector-policy-aug-2021-public.pdf",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://www.uobgroup.com/assets/web-resources/sustainability/pdf/metals-and-mining-uob-responsible-financing-sector-policy-may-2023-public.pdf",
+                "downloaded": true
             },
             {
                 "url": "https://www.uobgroup.com/web-resources/uobgroup/pdf/sustainability/energy-uob-responsible-financing-sector-policy-aug-2021-public.pdf",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://www.uobgroup.com/assets/web-resources/sustainability/pdf/energy-uob-responsible-financing-sector-policy-may-2023-public.pdf",
+                "downloaded": true
             }
         ]
     },
@@ -1317,8 +1317,8 @@
         "output": [
             {
                 "url": "https://www.usbank.com/content/dam/usbank/documents/pdf/about-us-bank/community/Ethics/12132021-External-ESRP.pdf",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://ir.usbank.com/static-files/b33cccfd-6f2c-424e-afd8-8beb66b9f0e6",
+                "downloaded": true
             },
             {
                 "url": "https://www.usbank.com/content/dam/usbank/documents/pdf/about-us-bank/community/Ethics/environmental_and_social_risk_policy_statement.pdf",
@@ -1361,8 +1361,8 @@
         "output": [
             {
                 "url": "https://www.woorifg.com/kor/pr/news/view.do?seq=222&f=&q=",
-                "actual_url": null,
-                "downloaded": false
+                "actual_url": "https://www.woorifg.com/kor/pr/news/view.do?seq=222&f=&q=",
+                "downloaded": true
             }
         ]
     }
